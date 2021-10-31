@@ -8,14 +8,32 @@
 import SwiftUI
 
 struct ContentView: View {
-    var body: some View {
-        Text("Hello, world!")
-            .padding()
-    }
+	let courses = Bundle.main.decode([Course].self, from: "data_scorewind_courses.json")
+	@State private var isCurrentView = true
+	@EnvironmentObject var navigationGuide:NavigationGuide
+	
+	var body: some View {
+		if isCurrentView == true {
+			List {
+				ForEach(courses) { course in
+					Button(action: {
+						navigationGuide.currentCourse = course
+						isCurrentView = false
+					}) {
+						Text(course.title)
+							.foregroundColor(Color.black)
+					}
+				}
+			}
+		}else{
+			CourseView()
+		}
+		
+	}
 }
 
 struct ContentView_Previews: PreviewProvider {
-    static var previews: some View {
-        ContentView()
-    }
+	static var previews: some View {
+		ContentView().environmentObject(NavigationGuide())
+	}
 }

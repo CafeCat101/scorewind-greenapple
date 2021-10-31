@@ -11,6 +11,13 @@
 		C8C8D55C27242B8A00FB0CAB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8C8D55B27242B8A00FB0CAB /* ContentView.swift */; };
 		C8C8D55E27242B8C00FB0CAB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C8C8D55D27242B8C00FB0CAB /* Assets.xcassets */; };
 		C8C8D56127242B8C00FB0CAB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C8C8D56027242B8C00FB0CAB /* Preview Assets.xcassets */; };
+		C8C8D56827242BEF00FB0CAB /* data_scorewind_courses.json in Resources */ = {isa = PBXBuildFile; fileRef = C8C8D56727242BEF00FB0CAB /* data_scorewind_courses.json */; };
+		C8C8D56A27242CE500FB0CAB /* ScorewindCourses.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8C8D56927242CE500FB0CAB /* ScorewindCourses.swift */; };
+		C8C8D56C27253ABC00FB0CAB /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8C8D56B27253ABC00FB0CAB /* Helper.swift */; };
+		C8C8D5742729B6FC00FB0CAB /* CourseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8C8D5732729B6FC00FB0CAB /* CourseView.swift */; };
+		C8C8D578272BD89700FB0CAB /* NavigationGuideView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8C8D577272BD89700FB0CAB /* NavigationGuideView.swift */; };
+		C8C8D57A272BE09700FB0CAB /* LessonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8C8D579272BE09700FB0CAB /* LessonView.swift */; };
+		C8C8D57C272C2D2100FB0CAB /* NavigationGuide.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8C8D57B272C2D2100FB0CAB /* NavigationGuide.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +26,13 @@
 		C8C8D55B27242B8A00FB0CAB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C8C8D55D27242B8C00FB0CAB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C8C8D56027242B8C00FB0CAB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C8C8D56727242BEF00FB0CAB /* data_scorewind_courses.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = data_scorewind_courses.json; sourceTree = "<group>"; };
+		C8C8D56927242CE500FB0CAB /* ScorewindCourses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScorewindCourses.swift; sourceTree = "<group>"; };
+		C8C8D56B27253ABC00FB0CAB /* Helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
+		C8C8D5732729B6FC00FB0CAB /* CourseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseView.swift; sourceTree = "<group>"; };
+		C8C8D577272BD89700FB0CAB /* NavigationGuideView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationGuideView.swift; sourceTree = "<group>"; };
+		C8C8D579272BE09700FB0CAB /* LessonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonView.swift; sourceTree = "<group>"; };
+		C8C8D57B272C2D2100FB0CAB /* NavigationGuide.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationGuide.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,10 +65,17 @@
 		C8C8D55827242B8A00FB0CAB /* SWDataSandbox */ = {
 			isa = PBXGroup;
 			children = (
+				C8C8D56727242BEF00FB0CAB /* data_scorewind_courses.json */,
 				C8C8D55927242B8A00FB0CAB /* SWDataSandboxApp.swift */,
-				C8C8D55B27242B8A00FB0CAB /* ContentView.swift */,
+				C8C8D56927242CE500FB0CAB /* ScorewindCourses.swift */,
+				C8C8D56B27253ABC00FB0CAB /* Helper.swift */,
 				C8C8D55D27242B8C00FB0CAB /* Assets.xcassets */,
 				C8C8D55F27242B8C00FB0CAB /* Preview Content */,
+				C8C8D55B27242B8A00FB0CAB /* ContentView.swift */,
+				C8C8D5732729B6FC00FB0CAB /* CourseView.swift */,
+				C8C8D577272BD89700FB0CAB /* NavigationGuideView.swift */,
+				C8C8D579272BE09700FB0CAB /* LessonView.swift */,
+				C8C8D57B272C2D2100FB0CAB /* NavigationGuide.swift */,
 			);
 			path = SWDataSandbox;
 			sourceTree = "<group>";
@@ -127,6 +148,7 @@
 			files = (
 				C8C8D56127242B8C00FB0CAB /* Preview Assets.xcassets in Resources */,
 				C8C8D55E27242B8C00FB0CAB /* Assets.xcassets in Resources */,
+				C8C8D56827242BEF00FB0CAB /* data_scorewind_courses.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +159,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C8C8D57A272BE09700FB0CAB /* LessonView.swift in Sources */,
 				C8C8D55C27242B8A00FB0CAB /* ContentView.swift in Sources */,
 				C8C8D55A27242B8A00FB0CAB /* SWDataSandboxApp.swift in Sources */,
+				C8C8D5742729B6FC00FB0CAB /* CourseView.swift in Sources */,
+				C8C8D56A27242CE500FB0CAB /* ScorewindCourses.swift in Sources */,
+				C8C8D56C27253ABC00FB0CAB /* Helper.swift in Sources */,
+				C8C8D57C272C2D2100FB0CAB /* NavigationGuide.swift in Sources */,
+				C8C8D578272BD89700FB0CAB /* NavigationGuideView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -9,9 +9,11 @@ import SwiftUI
 
 @main
 struct SWDataSandboxApp: App {
-    var body: some Scene {
-        WindowGroup {
-            ContentView()
-        }
-    }
+	@StateObject var navigationGuide = NavigationGuide()
+	
+	var body: some Scene {
+		WindowGroup {
+			ContentView().environmentObject(navigationGuide)
+		}
+	}
 }

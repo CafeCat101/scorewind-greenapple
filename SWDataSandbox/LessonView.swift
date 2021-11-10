@@ -19,7 +19,7 @@ struct LessonView: View {
 				Button(action: {
 					showNavigationGuide = true
 				}) {
-					Text("\(navigationGuide.currentLesson.title)")
+					Text("\(navigationGuide.replaceCommonHTMLNumber(htmlString: navigationGuide.currentLesson.title))")
 						.font(.title2)
 						.foregroundColor(Color.black)
 				}
@@ -28,7 +28,8 @@ struct LessonView: View {
 					.overlay(
 						Text("Introduction video")
 							.foregroundColor(Color.white))
-				Text(navigationGuide.currentLesson.content)
+				//Text(navigationGuide.currentLesson.content)
+				HTMLString(htmlContent:navigationGuide.currentLesson.content)
 				Spacer()
 			}
 			.sheet(isPresented: $showNavigationGuide){

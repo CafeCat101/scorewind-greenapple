@@ -39,7 +39,7 @@ struct NavigationGuideView: View {
 							navigationGuide.currentLesson = lesson
 							self.setToView = "lesson"
 						}) {
-							Text(lesson.title)
+							Text(navigationGuide.replaceCommonHTMLNumber(htmlString: lesson.title))
 								.foregroundColor(Color.black)
 						}
 					}

@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C8BA6E8B2737B3BD0099A134 /* HTMLString.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8BA6E8A2737B3BD0099A134 /* HTMLString.swift */; };
 		C8C8D55A27242B8A00FB0CAB /* SWDataSandboxApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8C8D55927242B8A00FB0CAB /* SWDataSandboxApp.swift */; };
 		C8C8D55C27242B8A00FB0CAB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8C8D55B27242B8A00FB0CAB /* ContentView.swift */; };
 		C8C8D55E27242B8C00FB0CAB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C8C8D55D27242B8C00FB0CAB /* Assets.xcassets */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C8BA6E8A2737B3BD0099A134 /* HTMLString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTMLString.swift; sourceTree = "<group>"; };
 		C8C8D55627242B8A00FB0CAB /* SWDataSandbox.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SWDataSandbox.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C8C8D55927242B8A00FB0CAB /* SWDataSandboxApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SWDataSandboxApp.swift; sourceTree = "<group>"; };
 		C8C8D55B27242B8A00FB0CAB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -76,6 +78,7 @@
 				C8C8D577272BD89700FB0CAB /* NavigationGuideView.swift */,
 				C8C8D579272BE09700FB0CAB /* LessonView.swift */,
 				C8C8D57B272C2D2100FB0CAB /* NavigationGuide.swift */,
+				C8BA6E8A2737B3BD0099A134 /* HTMLString.swift */,
 			);
 			path = SWDataSandbox;
 			sourceTree = "<group>";
@@ -164,6 +167,7 @@
 				C8C8D55A27242B8A00FB0CAB /* SWDataSandboxApp.swift in Sources */,
 				C8C8D5742729B6FC00FB0CAB /* CourseView.swift in Sources */,
 				C8C8D56A27242CE500FB0CAB /* ScorewindCourses.swift in Sources */,
+				C8BA6E8B2737B3BD0099A134 /* HTMLString.swift in Sources */,
 				C8C8D56C27253ABC00FB0CAB /* Helper.swift in Sources */,
 				C8C8D57C272C2D2100FB0CAB /* NavigationGuide.swift in Sources */,
 				C8C8D578272BD89700FB0CAB /* NavigationGuideView.swift in Sources */,

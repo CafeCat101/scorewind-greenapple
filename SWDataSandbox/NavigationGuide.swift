@@ -10,4 +10,16 @@ import Foundation
 class NavigationGuide: ObservableObject{
 	@Published var currentCourse = Course()
 	@Published var currentLesson = Lesson()
+	
+	func replaceCommonHTMLNumber(htmlString:String)->String{
+		var result = htmlString.replacingOccurrences(of: "&#8211;", with: "-")
+		result = result.replacingOccurrences(of: "&#32;", with: " ")
+		result = result.replacingOccurrences(of: "&quot;", with: "\"")
+		result = result.replacingOccurrences(of: "&#8212;", with: "—")
+		return result
+	}
+	
+	//func courseWPToApp(courseContent:String) -> String{
+		
+	//}
 }

@@ -7,6 +7,7 @@
 
 import SwiftUI
 
+
 struct CourseView: View {
 	let screenSize: CGRect = UIScreen.main.bounds
 	@EnvironmentObject var navigationGuide:NavigationGuide
@@ -19,7 +20,7 @@ struct CourseView: View {
 				Button(action: {
 					showNavigationGuide = true
 				}) {
-					Text("\(navigationGuide.currentCourse.title)")
+					Text("\(navigationGuide.replaceCommonHTMLNumber(htmlString: navigationGuide.currentCourse.title))")
 						.font(.title2)
 						.foregroundColor(Color.black)
 				}
@@ -28,9 +29,10 @@ struct CourseView: View {
 					.overlay(
 						Text("Introduction video")
 							.foregroundColor(Color.white))
-				Text("Introduction")
+				/*Text("Introduction")
 					.fontWeight(.bold)
-				Text(navigationGuide.currentCourse.content)
+				Text(navigationGuide.currentCourse.content)*/
+				HTMLString(htmlContent: navigationGuide.currentCourse.content)
 				Spacer()
 			}
 			.sheet(isPresented: $showNavigationGuide){

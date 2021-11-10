@@ -20,7 +20,7 @@ struct ContentView: View {
 						navigationGuide.currentCourse = course
 						isCurrentView = false
 					}) {
-						Text(course.title)
+						Text(navigationGuide.replaceCommonHTMLNumber(htmlString: course.title))
 							.foregroundColor(Color.black)
 					}
 				}

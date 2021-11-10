@@ -52,6 +52,7 @@ struct Course: Codable, Identifiable{
 		lessons = [Lesson()]
 		
 	}
+
 	
 }
 
@@ -77,6 +78,7 @@ struct Lesson: Codable, Identifiable{
 	var composer: String
 	var video: String
 	var scoreViewer: String
+	var image: String
 	var step: Int
 	
 	enum CodingKeys: String, CodingKey{
@@ -87,6 +89,7 @@ struct Lesson: Codable, Identifiable{
 		case composer = "lesson_composer"
 		case video = "lesson_video"
 		case scoreViewer = "lesson_score_viewer"
+		case image = "lesson_image"
 		case step = "lesson_step"
 	}
 	
@@ -98,6 +101,7 @@ struct Lesson: Codable, Identifiable{
 		composer = "Scorewind Teacher"
 		video = "lesson/video"
 		scoreViewer = "lesson/scoreViewer"
+		image = "lesson/image"
 		step = 1
 	}
 }

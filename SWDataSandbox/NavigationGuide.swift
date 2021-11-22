@@ -23,7 +23,18 @@ class NavigationGuide: ObservableObject{
 		return result
 	}
 	
-	//func courseWPToApp(courseContent:String) -> String{
-		
-	//}
+	func removeWhatsNext(Text:String)->String{
+		let searchText = "<h4>What's next</h4>"
+		if let range: Range<String.Index> = Text.range(of: searchText) {
+			let findIndex: Int = Text.distance(from: Text.startIndex, to: range.lowerBound)
+			print("index: ", findIndex) //index: 2
+			let myText = Text.prefix(findIndex)
+			return String(myText)
+			//let targetRange = Text.index(after: Text.startIndex)..<findIndex
+			
+			
+		}else{
+			return Text
+		}
+	}
 }

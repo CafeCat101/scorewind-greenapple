@@ -32,7 +32,7 @@ struct CourseView: View {
 				/*Text("Introduction")
 					.fontWeight(.bold)
 				Text(navigationGuide.currentCourse.content)*/
-				HTMLString(htmlContent: navigationGuide.currentCourse.content)
+				HTMLString(htmlContent: navigationGuide.removeWhatsNext(Text: navigationGuide.currentCourse.content))
 				Spacer()
 			}
 			.sheet(isPresented: $showNavigationGuide){

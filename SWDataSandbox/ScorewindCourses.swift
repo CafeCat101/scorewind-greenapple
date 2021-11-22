@@ -18,7 +18,7 @@ struct Course: Codable, Identifiable{
 	var shortDescription: String
 	var instrument: String
 	var level: String
-	var sortValue: Int
+	var sortValue: String
 	var duration: String
 	var lessons: [Lesson]
 	
@@ -47,7 +47,7 @@ struct Course: Codable, Identifiable{
 		shortDescription = ""
 		instrument = ""
 		level = "beginner"
-		sortValue = 1
+		sortValue = "1"
 		duration = "1d"
 		lessons = [Lesson()]
 		

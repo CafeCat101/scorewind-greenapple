@@ -8,14 +8,14 @@
 import SwiftUI
 
 struct ContentView: View {
-	let courses = Bundle.main.decode([Course].self, from: "data_scorewind_courses.json")
+	//let courses = Bundle.main.decode([Course].self, from: "data_scorewind_courses.json")
 	@State private var isCurrentView = true
 	@EnvironmentObject var navigationGuide:NavigationGuide
 	
 	var body: some View {
 		if isCurrentView == true {
 			List {
-				ForEach(courses) { course in
+				ForEach(navigationGuide.courses) { course in
 					Button(action: {
 						navigationGuide.currentCourse = course
 						isCurrentView = false

@@ -18,20 +18,39 @@ struct NavigationGuideView: View {
 	var body: some View {
 		VStack{
 			List{
-				Button(action: {
-					self.isPresented = false
-					self.setToView = ""
-				}) {
-					Text("My courses")
-						.foregroundColor(Color.black)
+				Section(header: Text("Courses")){
+					Button(action: {
+						navigationGuide.currentLesson = Lesson()
+						self.isPresented = false
+						self.setToView = "course"
+					}) {
+						Text("Current course: Introduction")
+							.foregroundColor(Color.black)
+					}
+					
+					if navigationGuide.previousCourse.id > 0 {
+						Button(action: {
+							navigationGuide.currentCourse = navigationGuide.currentCourse
+							self.isPresented = false
+							self.setToView = "course"
+						}) {
+							Text("Previous: " + navigationGuide.replaceCommonHTMLNumber(htmlString: navigationGuide.previousCourse.title))
+								.foregroundColor(Color.black)
+						}
+					}
+					
+					if navigationGuide.nextCourse.id > 0 {
+						Button(action: {
+							navigationGuide.currentCourse = navigationGuide.nextCourse
+							self.isPresented = false
+							self.setToView = "course"
+						}) {
+							Text("Next: " + navigationGuide.replaceCommonHTMLNumber(htmlString: navigationGuide.nextCourse.title))
+								.foregroundColor(Color.black)
+						}
+					}
 				}
-				Button(action: {
-					self.isPresented = false
-					self.setToView = "course"
-				}) {
-					Text("Current course")
-						.foregroundColor(Color.black)
-				}
+				
 				Section(header: Text("Lessons")){
 					ForEach(navigationGuide.currentCourse.lessons){ lesson in
 						Button(action: {
@@ -39,8 +58,13 @@ struct NavigationGuideView: View {
 							navigationGuide.currentLesson = lesson
 							self.setToView = "lesson"
 						}) {
-							Text(navigationGuide.replaceCommonHTMLNumber(htmlString: lesson.title))
-								.foregroundColor(Color.black)
+							if navigationGuide.currentLesson.title == lesson.title {
+								Text(navigationGuide.replaceCommonHTMLNumber(htmlString: lesson.title))
+									.foregroundColor(Color.green)
+							}else{
+								Text(navigationGuide.replaceCommonHTMLNumber(htmlString: lesson.title))
+									.foregroundColor(Color.black)
+							}
 						}
 					}
 				}
@@ -48,18 +72,12 @@ struct NavigationGuideView: View {
 				Section(header: Text("Continue")){
 					Button(action: {
 						self.isPresented = false
-						self.setToView = "course"
+						self.setToView = ""
 					}) {
-						Text("Previous course")
+						Text("My courses")
 							.foregroundColor(Color.black)
 					}
-					Button(action: {
-						self.isPresented = false
-						self.setToView = "course"
-					}) {
-						Text("Next course")
-							.foregroundColor(Color.black)
-					}
+					
 					Button(action: {
 						//go to use the scorewind wizard. do this later.
 					}) {
@@ -72,6 +90,10 @@ struct NavigationGuideView: View {
 			
 			Spacer()
 		}
+		.onAppear(perform: {
+			navigationGuide.findPreviousCourse()
+			navigationGuide.findNextCourse()
+		})
 	}
 }
 

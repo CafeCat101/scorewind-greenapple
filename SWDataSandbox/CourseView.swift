@@ -38,6 +38,10 @@ struct CourseView: View {
 			.sheet(isPresented: $showNavigationGuide){
 				NavigationGuideView(isPresented: self.$showNavigationGuide, setToView: self.$goToView)
 			}
+			.onAppear(perform: {
+				navigationGuide.findPreviousCourse()
+				navigationGuide.findNextCourse()
+			})
 		}else{
 			if self.goToView == "lesson"{
 				LessonView()

@@ -25,7 +25,7 @@
 				"course_short_description": "In the part 1 of this course you will be practicing one of the most used techniques during the classical era for classical guitar - the Alberti style bass and accompaniment. You will begin with easier pieces, but difficulty will rise with every step!",
 				"course_instrument": "guitar",
 				"course_level": "intermediate",
-				"course_sort_value": "22",
+				"course_sort_value": "58798-1",
 				"course_duration": "8~9w",
 				"lessons": [
 						{
@@ -112,7 +112,7 @@
 				"course_short_description": "In this method you will be practicing one of the most used techniques during the classical era for classical guitar - the Alberti style bass and accompaniment. You will begin with easier pieces, but difficulty will rise with every step!",
 				"course_instrument": "guitar",
 				"course_level": "intermediate-advanced",
-				"course_sort_value": "37",
+				"course_sort_value": "58798-2",
 				"course_duration": "5~10w",
 				"lessons": [
 						{
@@ -134,8 +134,23 @@
 				"course_content": "<h4>Highlights</h4>\n<ul>\n <li>\nDeveloping longer bow strokes.</li>\n <li>\nMaintaining even sounding bow strokes.</li>\n <li>\nIntonation in G Major and D Major.</li>\n <li>\nPracticing smoothening the shifts.</li>\n</ul>\n<h4>Description</h4>\nWith this violin method you are able to experience Scorewind's didactic approach to music for free! We hope you apreciate the \"step by step\" model we have developed. If so, we welcome you to enroll in the other music methods we have available for you. Have fun!\n\nDancla is well known for his melodic approach to teaching violin technique. This course is prepared for players who have a basic understanding on how to read notes. Both the exercises prepared for the end goal piece and the piece itself must be played with calm, soft sounding and even bow strokes. Since what is demanded from the left hand is not extremely challenging, there is space for focusing on this peculiar quality in this course. After step by step exercises picked to guide the player to the end result, the piece itself gets so much easier to learn!\n<h4>Requirement</h4>\n<ul>\n <li>\nNovice level of score reading ability. (slow but steady deciphering skills for the notes that coincide 1st position on the violin fretboard)</li>\n <li>\nMobility of 2nd finger. (to switch between 1-23 / 12-3 hand positions)</li>\n <li>\nProficiency in maintaining stable tempo.</li>\n <li>\n(optional): proficiency in using 4th finger.</li>\n</ul>\n<h4>What's next</h4>\nNext course: <a href=\"https://scorewind.com/courses/get-better-at-string-crossing-melodiously/\">Get Better at String Crossing Melodiously</a>",
 				"course_image": "https://scorewind.com/wp-content/uploads/2021/02/Demo-banner-violin-8.jpg",
 				"course_tag": [
+						"1-23-4",
+						"12-3-4",
+						"4/4",
+						"basic",
+						"beginner intermediate",
 						"classical music",
-						"romantic era"
+						"dancla",
+						"even bow strokes",
+						"fundamental technique",
+						"g major",
+						"intonation workout",
+						"long bow strokes",
+						"maintaining even sound",
+						"moderato",
+						"romantic era",
+						"simple rhythm",
+						"violin"
 				],
 				"course_category": [
 						{
@@ -273,8 +288,29 @@
 				"course_content": "<h4>Highlights</h4>\n<ul>\n <li>\nExecuting chromatic crescending lines</li>\n <li>\nPlaying long lasting eight note runs.</li>\n <li>\nLearning to shift from long strokes to short strokes rapidly.</li>\n <li>\nChromatic intonation control.</li>\n</ul>\n<h4>Description</h4>\nThis step-by-step guide prepares you to perform the Etude No. 8 from Dancla's Op. 84, 36 Melodic Studies book. The piece is played around the keys C Major and of course its relative minor A Minor, which is why the course contains exercises to make these tonalities familiar to your left hand. Pro Tip: When playing the goal piece at the end of the course make sure to breath in and out regularly!\n<h4>Requirement</h4>\n<ul>\n <li>\nNovice level of score reading ability. (slow but steady deciphering skills for the notes that coincide 1st position on the violin fretboard)</li>\n <li>\nMobility of 2nd and 3rd fingers.</li>\n <li>\nProficiency in using 4th finger.</li>\n <li>\nProficiency in half, quarter, eight notes.</li>\n</ul>\n<h4>What's next</h4>\nNext course: <a href=\"https://scorewind.com/courses/first-step-towards-rhythmic-challenges/#tab-course-section__overview\">First Step Towards Rhythmic Challenges</a>",
 				"course_image": "https://scorewind.com/wp-content/uploads/2021/01/violin-banner-method-11.jpg",
 				"course_tag": [
+						"8th note passages",
+						"a minor",
+						"breathing",
+						"chromatic",
+						"chromatic intonation control",
+						"chromatic passage",
 						"classical music",
-						"romantic era"
+						"crescendo",
+						"dancla",
+						"dynamics control",
+						"eight note runs",
+						"intonation",
+						"intonation control",
+						"long lasting phrases",
+						"long phrases",
+						"long strokes",
+						"relative minor",
+						"romantic era",
+						"short strokes",
+						"short to long strokes",
+						"stroke changes",
+						"tonality exploration",
+						"violin"
 				],
 				"course_category": [
 						{
@@ -291,7 +327,7 @@
 				"course_short_description": "This step-by-step guide prepares you to perform the Etude No. 8 from Dancla's Op. 84, 36 Melodic Studies book. This course contains exercises to make the C major and A minor tonalities familiar to your left hand.",
 				"course_instrument": "violin",
 				"course_level": "beginner-intermediate",
-				"course_sort_value": "55",
+				"course_sort_value": "5",
 				"course_duration": "1~2w",
 				"lessons": [
 						{
@@ -390,11 +426,21 @@
 				"course_content": "<h4>Highlights</h4>\n<ul>\n <li>\nLearn how to treat homophonic voicing.</li>\n <li>\nDynamic range control.</li>\n <li>\nPrecision in playing various notes at the same time.</li>\n <li>\nFocus on arpeggio technique.</li>\n</ul>\n<h4>Description</h4>\nThis step by step method will help you practice an etude by Mauro Giuliani. In the first part of his etude you will work on homophonic voicing, and the challenges there include the precision of playing them exactly at the same time and with a balanced intensity. On the second part, the intervals become wider, allowing space for an arpeggiated acompaniment technique for the right hand, from which the middle line should be played with lower volume than the singing melody and the bass line.\n<h4>Requirement</h4>\n<ul>\n <li>\nCompletion of course: \u2018Introduction to Chords and Arpeggios\u2019.</li>\n <li>\nNovice level of score reading ability.</li>\n <li>\nNovice experience in one voice treatment and playing.</li>\n <li>\nFamiliar with essential beginner chords (Check 'Introduction to Chords and Arpeggios' otherwise).</li>\n <li>\nBeginner level in left hand vertical finger extension.</li>\n <li>\nBeginner level in right hand arpeggiation.</li>\n</ul>\n<h4>What's next</h4>\nNext course: <a href=\"https://scorewind.com/courses/practice-feeling-in-three/\">Practice the \"Feeling in Three\"</a>",
 				"course_image": "https://scorewind.com/wp-content/uploads/2020/10/Guitar-banner-method-5.jpg",
 				"course_tag": [
-						"arpeggios",
+						"3/4",
+						"andantino",
+						"arpeggio technique",
+						"beginner intermediate",
+						"beginner level harmony",
+						"c major",
 						"classical Era",
 						"classical music",
-						"giuliani",
-						"homophony"
+						"dynamics control",
+						"first position",
+						"homophonic voicing",
+						"left hand vertical extensions",
+						"mauro giuliani",
+						"parallel voicing",
+						"variation"
 				],
 				"course_category": [
 						{
@@ -411,7 +457,7 @@
 				"course_short_description": "This step by step method will help you practice an etude by Mauro Giuliani. In the first part of his etude you will work on homophonic voicing, and on the second part, you will practice wider intervals together with an arpeggiated acompaniment technique for the right hand.",
 				"course_instrument": "guitar",
 				"course_level": "beginner-intermediate",
-				"course_sort_value": "33",
+				"course_sort_value": "4",
 				"course_duration": "2~3w",
 				"lessons": [
 						{
@@ -495,16 +541,16 @@
 				"course_short_description": "A course dedicated to an etude selection from the 36 Easy and Melodic Studies, Op. 84 by Dancla. A good way to introduce the learner to the basic vocabulary of classical music.",
 				"course_instrument": "violin",
 				"course_level": "beginner-intermediate",
-				"course_sort_value": "1",
+				"course_sort_value": "74772-1",
 				"course_duration": "2~4w",
 				"lessons": [
 						{
 								"id": 74884,
 								"scorewind_id": 0,
 								"lesson_title": "Introduction to &#8216; Classical Vocabulary for Violin \u2013 Part 1 (Demo)&#8217;",
-								"lesson_content": "<p>A course dedicated to an etude selection from the <strong>36 Easy and Melodic Studies, Op. 84</strong> by Dancla. A good way to introduce the learner to the basic vocabulary of classical music. It is designed for musicians that know their basic note reading skills, that are aware of whereabouts of notes on the first position and are establishing their rhythmic understanding. Spread through the pieces, the learner can practice various beginner friendly and intermediate tonalities. Phrases and forms of these etudes are rather musical than technical. This can help violin learners to establish essential storytelling skills within melodies.\u00a0</p>\n\n<p>Although technical difficulties of each piece is rather similar within this collected group of pieces, they are not meant to be played precisely with the given order. Yet they can help each other out; since learning classical vocabulary is like learning a new language; knowing one piece WILL make it easier to learn the next one. There is a difficulty level rise to some extend towards the last pieces. You can listen to the whole set of pieces and start from whichever piece you feel the interest for.&nbsp;</p>",
+								"lesson_content": "<p>A course dedicated to an etude selection from the <strong>36 Easy and Melodic Studies, Op. 84</strong> by Dancla. A good way to introduce the learner to the basic vocabulary of classical music. It is designed for musicians that know their basic note reading skills, that are aware of whereabouts of notes on the first position and are establishing their rhythmic understanding. Spread through the pieces, the learner can practice various beginner friendly and intermediate tonalities. Phrases and forms of these etudes are rather musical than technical. This can help violin learners to establish essential storytelling skills within melodies.\u00a0</p>\n<p>Although technical difficulties of each piece is rather similar within this collected group of pieces, they are not meant to be played precisely with the given order. Yet they can help each other out; since learning classical vocabulary is like learning a new language; knowing one piece WILL make it easier to learn the next one. There is a difficulty level rise to some extend towards the last pieces. You can listen to the whole set of pieces and start from whichever piece you feel the interest for.&nbsp;</p>",
 								"lesson_composer": "",
-								"lesson_video": "",
+								"lesson_video": "https://scorewind.com/wp-content/uploads/2021/02/Path-Introduction-To-Classical-Vocabulary-For-Violin-Part-1.mp4",
 								"lesson_score_viewer": "",
 								"lesson_image": "https://scorewind.com/wp-content/uploads/2021/02/Intro-Image-scorewind.jpg",
 								"lesson_step": 1
@@ -536,16 +582,16 @@
 				"course_short_description": "A course (part 2) dedicated to an etude selection from the 36 Easy and Melodic Studies, Op. 84 by Dancla. A good way to introduce the learner to the basic vocabulary of classical music.",
 				"course_instrument": "violin",
 				"course_level": "intermediate",
-				"course_sort_value": "12",
+				"course_sort_value": "74772-2",
 				"course_duration": "2~4w",
 				"lessons": [
 						{
 								"id": 89231,
 								"scorewind_id": 0,
 								"lesson_title": "Introduction to &#8216; Classical Vocabulary for Violin \u2013 Part 2&#8217;",
-								"lesson_content": "<p>A course (part 2) dedicated to an etude selection from the <strong>36 Easy and Melodic Studies, Op. 84</strong> by Dancla. A good way to introduce the learner to the basic vocabulary of classical music. It is designed for musicians that know their basic note reading skills, that are aware of whereabouts of notes on the first position and are establishing their rhythmic understanding. Spread through the pieces, the learner can practice various beginner friendly and intermediate tonalities. Phrases and forms of these etudes are rather musical than technical. This can help violin learners to establish essential storytelling skills within melodies.\u00a0</p>\n\n<p>Although technical difficulties of each piece is rather similar within this collected group of pieces, they are not meant to be played precisely with the given order. Yet they can help each other out; since learning classical vocabulary is like learning a new language; knowing one piece WILL make it easier to learn the next one. There is a difficulty level rise to some extend towards the last pieces. You can listen to the whole set of pieces and start from whichever piece you feel the interest for.&nbsp;</p>",
+								"lesson_content": "<p>A course (part 2) dedicated to an etude selection from the <strong>36 Easy and Melodic Studies, Op. 84</strong> by Dancla. A good way to introduce the learner to the basic vocabulary of classical music. It is designed for musicians that know their basic note reading skills, that are aware of whereabouts of notes on the first position and are establishing their rhythmic understanding. Spread through the pieces, the learner can practice various beginner friendly and intermediate tonalities. Phrases and forms of these etudes are rather musical than technical. This can help violin learners to establish essential storytelling skills within melodies.\u00a0</p>\n<p>Although technical difficulties of each piece is rather similar within this collected group of pieces, they are not meant to be played precisely with the given order. Yet they can help each other out; since learning classical vocabulary is like learning a new language; knowing one piece WILL make it easier to learn the next one. There is a difficulty level rise to some extend towards the last pieces. You can listen to the whole set of pieces and start from whichever piece you feel the interest for.&nbsp;</p>",
 								"lesson_composer": "",
-								"lesson_video": "",
+								"lesson_video": "https://scorewind.com/wp-content/uploads/2021/04/Path-Introduction-To-Classical-Vocabulary-For-Violin-Part-2.mp4",
 								"lesson_score_viewer": "",
 								"lesson_image": "https://scorewind.com/wp-content/uploads/2021/02/Intro-Image-scorewind.jpg",
 								"lesson_step": 1
@@ -558,8 +604,30 @@
 				"course_content": "<h4>Highlights</h4>\n<ul>\n <li>\nExecuting vibrato on long notes</li>\n <li>\n(Optional): playing passages on 3rd position.</li>\n <li>\nSwitching between wide spread musical phrases and staccato 8th note runs.</li>\n</ul>\n<h4>Description</h4>\nThis step-by-step guide is planned to help players execute a 3/4 piece that has two very contrasting parts, one that is very lineal and melodic, other that is relatively fast and to be played with a very active attitude. As well as that, the end goal piece have two alternatives fingerings to perform, one on 1st position and the other that includes 3rd position. We recommend the player to first focus on playing the entire piece on 1st position. Only after this goal is reached, the learners can move on to the next challenge, which is to use the fingerings indicated on the score.\n<h4>Requirement</h4>\n<ul>\n <li>\nNovice experience in executing staccato technique.</li>\n <li>\nProficiency in 3/4 time signature.</li>\n <li>\nMobility of 2nd finger.</li>\n <li>\nProficiency in half, quarter, eight and dotted notes.</li>\n <li>\n(Optional): Novice experience in position shifting.</li>\n</ul>\n<h4>What's next</h4>\nNext course: <a href=\"https://scorewind.com/courses/get-better-at-slurred-string-changes/\">Get Better at Slurred String Changes</a>",
 				"course_image": "https://scorewind.com/wp-content/uploads/2021/01/violin-banner-method-6.jpg",
 				"course_tag": [
+						"1st position",
+						"3/4 piece",
+						"3rd position",
+						"8th note passages",
 						"classical music",
-						"romantic era"
+						"contrast",
+						"contrasting phrases",
+						"eight note runs",
+						"fast",
+						"first position",
+						"intermediate friendly",
+						"long lasting phrases",
+						"long note vibrato",
+						"melodic",
+						"musical ideas",
+						"musical intention",
+						"musical phrases",
+						"romantic era",
+						"stable tempo",
+						"staccato",
+						"ternary piece",
+						"ternary pulse",
+						"third position",
+						"vibrato"
 				],
 				"course_category": [
 						{
@@ -576,7 +644,7 @@
 				"course_short_description": "This step-by-step guide is planned to help players execute a 3/4 piece that has two very contrasting parts, one that is very lineal and melodic, other that is relatively fast and to be played with a very active attitude.",
 				"course_instrument": "violin",
 				"course_level": "intermediate",
-				"course_sort_value": "66",
+				"course_sort_value": "9",
 				"course_duration": "1~2w",
 				"lessons": [
 						{
@@ -696,7 +764,7 @@
 				"course_short_description": "Knowing well your arpeggios is an important part of your growth as a piano player. This course will show you beginner friendly etudes for essential melodic arpeggios, arpeggiated accompaniment, and Alberti bass.",
 				"course_instrument": "piano",
 				"course_level": "beginner",
-				"course_sort_value": "58",
+				"course_sort_value": "1",
 				"course_duration": "1~3w",
 				"lessons": [
 						{
@@ -782,7 +850,7 @@
 				"course_short_description": "Knowing well your arpeggios is an important part of your growth as a piano player. This course (part 2) will show you beginner friendly etudes for essential melodic arpeggios, arpeggiated accompaniment, and Alberti bass.",
 				"course_instrument": "piano",
 				"course_level": "beginner",
-				"course_sort_value": "59",
+				"course_sort_value": "2",
 				"course_duration": "1~3w",
 				"lessons": [
 						{
@@ -825,7 +893,7 @@
 				"course_short_description": "The part 1 of this method will progressively lead you to perfect the art of dotted rhythm through mid-beginner to intermediate levels pieces of the Classical-Romantic era of the classical guitar.",
 				"course_instrument": "guitar",
 				"course_level": "intermediate",
-				"course_sort_value": "22",
+				"course_sort_value": "41474-1",
 				"course_duration": "10w",
 				"lessons": [
 						{
@@ -901,7 +969,7 @@
 				"course_short_description": "This method will progressively lead you to perfect the art of dotted rhythm through mid-beginner to intermediate levels pieces of the Classical-Romantic era of the classical guitar.",
 				"course_instrument": "guitar",
 				"course_level": "intermediate-advanced",
-				"course_sort_value": "41",
+				"course_sort_value": "41474-2",
 				"course_duration": "5~10w",
 				"lessons": [
 						{
@@ -995,7 +1063,7 @@
 				"course_short_description": "Practice this course (part 2) to have by your side the great master Czerny and one of our teachers of Scorewind!",
 				"course_instrument": "piano",
 				"course_level": "beginner",
-				"course_sort_value": "55",
+				"course_sort_value": "2",
 				"course_duration": "1~2w",
 				"lessons": [
 						{
@@ -1017,12 +1085,19 @@
 				"course_content": "<h4>Highlights</h4>\n<ul>\n <li>\nIntroduction to fundamental techniques.</li>\n <li>\nBasic melodic arpeggios.</li>\n <li>\nParallel thirds in open position.</li>\n <li>\nTreatment of voices.</li>\n</ul>\n<h4>Description</h4>\nWith this guitar method you are able to experience Scorewind's didactic approach to music for free! We hope you appreciate the \"step by step\" model we have developed. If so, we welcome you to enrol in the other music methods we have available for you. Have fun!\n\nBy the end of the steps within this method you will encounter an etude by Fernando Sor which presents some of the fundamental techniques necessary to know how to play the classical guitar. It introduces melodic arpeggios, parallel thirds in open position, and basic voicing treatment.\n<h4>Requirement</h4>\n<ul>\n <li>\nNovice level of score reading ability. (slow but steady deciphering skills for the notes that coincide 1st position on the guitar fretboard)</li>\n <li>\nProficiency in maintaining stable tempo on a 4/4 bar.</li>\n <li>\nFamiliar with playing two notes at the same time.</li>\n <li>\nNovice level of using the 4th finger.</li>\n</ul>\n<h4>What's next</h4>\nNext course: <a href=\"https://scorewind.com/courses/getting-familiar-with-melodic-arpeggios-and-thirds/\">Getting Familiar With Melodic Arpeggios and Thirds</a>",
 				"course_image": "https://scorewind.com/wp-content/uploads/2021/02/Demo-banner-guitar-7.jpg",
 				"course_tag": [
-						"chords",
+						"4/4",
+						"andante",
+						"arpeggio technique",
+						"basic",
+						"beginner level harmony",
+						"c major",
 						"classical Era",
 						"classical music",
+						"fernando sor",
+						"first position",
+						"fundamental technique",
 						"melodic arpeggios",
-						"sor",
-						"thirds"
+						"parallel voicing"
 				],
 				"course_category": [
 						{
@@ -1160,8 +1235,22 @@
 				"course_content": "<h4>Highlights</h4>\n<ul>\n <li>\nExecuting a melody with large syncopation between bars.</li>\n <li>\nExecuting melodies with dotted note content.</li>\n</ul>\n<h4>Description</h4>\nThis course contains preparation material that will lead the player to perform Dancla's Etude No. 9, Op. 84 successfully. The vocabulary of the piece itself is very similar to some other etudes of his, but this one comes with more dotted rhythm challenges, and a large syncopation at the middle section. Syncopation means running over the beat with a note that starts in the middle of the previous beat, if this sounds complicated, we trust our score viewer will help you understand it!\n<h4>Requirement</h4>\n<ul>\n <li>\nNovice level of score reading ability. (slow but steady deciphering skills for the notes that coincide 1st position on the violin fretboard)</li>\n <li>\nMobility of 2nd and 3rd fingers.</li>\n <li>\nProficiency in using 4th finger.</li>\n <li>\nProficiency in half, quarter, eight and dotted notes.</li>\n <li>\nProficiency in slurring 2 to 4 notes in one bow evenly.</li>\n</ul>\n<h4>What's next</h4>\nNext course: <a href=\"https://scorewind.com/courses/playing-a-g-minor-piece/\">Starting with Minor Pieces</a>",
 				"course_image": "https://scorewind.com/wp-content/uploads/2021/01/violin-banner-method-12.jpg",
 				"course_tag": [
+						"beginner intermediate",
 						"classical music",
-						"romantic era"
+						"dancla",
+						"dotted notes",
+						"dotted rhythm",
+						"dotted rhythm challenges",
+						"dotted rhythm workout",
+						"long syncopation",
+						"melodic dotted rhythm",
+						"rhythm challenge",
+						"rhythm workout",
+						"rhythmic challenges",
+						"rhythmic precision",
+						"romantic era",
+						"syncopated melody",
+						"syncopation"
 				],
 				"course_category": [
 						{
@@ -1178,7 +1267,7 @@
 				"course_short_description": "This course contains preparation material that will lead the player to perform successfully the rhythmic challenges of Dancla's Etude No. 9, Op. 84.",
 				"course_instrument": "violin",
 				"course_level": "beginner-intermediate",
-				"course_sort_value": "55",
+				"course_sort_value": "6",
 				"course_duration": "1~2w",
 				"lessons": [
 						{
@@ -1244,9 +1333,31 @@
 				"course_content": "<h4>Highlights</h4>\n<ul>\n <li>\nSingle melody voice treatment.</li>\n <li>\nRight hand\u2019s index-middle finger workout.</li>\n <li>\nAscending and descending scales.</li>\n <li>\nThumb and bass line practice.</li>\n <li>\nBroad arpeggios.</li>\n <li>\nBroken thirds.</li>\n <li>\nOctave technique.</li>\n <li>\nJump to fifth position during a scale.</li>\n</ul>\n<h4>Description</h4>\nThis step by step method will help to practice an etude by Fernando Sor. The specialty of this etude is that it consists of a single melody line from beginning to end of the piece. Sor's musical talent finds a way to make the guitar sound with its usual full bodied sound, even though there isn't a supporting bass line or an acompaniment. Here you will practice fast and long scales, broad arpeggios, broken thirds, as well as getting introduced to the challenging octave technique. One of the hardest challenges of this etude is the position change happening during a scale, in which you would use the open e string to have a reliable jump.\n<h4>Requirement</h4>\n<ul>\n <li>\nBeginner-intermediate level of score reading ability.</li>\n <li>\nProficiency in keeping stable tempo on a ternary pulse.</li>\n <li>\nProficiency in melodic arpeggios.</li>\n <li>\nNovice level in broken thirds.</li>\n <li>\nBeginner level in scale practice.</li>\n <li>\nFamiliar in playing with the thumb.</li>\n</ul>\n<h4>What's next</h4>\nNext course: <a href=\"https://scorewind.com/courses/scales-arpeggios-and-flowing-bass-lines/\">Scales, Arpeggios and Flowing Bass Lines!</a>",
 				"course_image": "https://scorewind.com/wp-content/uploads/2020/10/Guitar-banner-method-7.jpg",
 				"course_tag": [
+						"1st position",
+						"5th position",
+						"arpeggios",
+						"ascending scales",
+						"broad arpeggios",
 						"classical Era",
 						"classical music",
-						"sor"
+						"descending scales",
+						"fifth position",
+						"first position",
+						"i m fingers",
+						"index middle fingers",
+						"melodic bass line",
+						"melody",
+						"octave technique",
+						"octaves",
+						"position change",
+						"right hand workout",
+						"scales",
+						"single melody",
+						"sor",
+						"speed",
+						"thumb",
+						"thumb workout",
+						"voice treatment"
 				],
 				"course_category": [
 						{
@@ -1263,7 +1374,7 @@
 				"course_short_description": "This step by step method will help to practice an etude by Fernando Sor. The specialty of this etude is that it consists of a single melody line from beginning to end of the piece. Sor's musical talent finds a way to make the guitar sound with its usual full bodied sound, even though there isn't a supporting bass line, or acompaniment.",
 				"course_instrument": "guitar",
 				"course_level": "beginner-intermediate",
-				"course_sort_value": "49",
+				"course_sort_value": "7",
 				"course_duration": "1~3w",
 				"lessons": [
 						{
@@ -1329,8 +1440,32 @@
 				"course_content": "<h4>Highlights</h4>\n<ul>\n <li>\nExecuting chromatic musical lines.</li>\n <li>\nControlling string crossings with efficient elbow moves.</li>\n</ul>\n<h4>Description</h4>\nThe end goal of this step-by-step guide is to play a lovely Valse that has a very bright and bittersweet melody, and exercises leading to it will give every player the comfort to execute the piece as delicately as it needs to be. The melody contains quite a few string crossings and a bit of chromatism but they are all reachable goals for a person that gained experience over valse rhythm, slurring notes and G major melodies.\n<h4>Requirement</h4>\n<ul>\n <li>\nProficiency in 3/4 time signature.</li>\n <li>\nMobility of left hand for diagonal shapes (rapid shifts or maintaining intervals between strings).</li>\n <li>\nSwift string crossing abilities.</li>\n <li>\nProficiency in half, quarter, eight and dotted notes.</li>\n</ul>\n<h4>What's next</h4>\nNext course: <a href=\"https://scorewind.com/courses/perfect-your-classical-music-phrasing/\">Perfect Your Classical Music Phrasing</a>",
 				"course_image": "https://scorewind.com/wp-content/uploads/2021/01/violin-banner-method-7.jpg",
 				"course_tag": [
+						"3/4 piece",
+						"chromatic",
+						"chromatic intonation control",
+						"chromatic musical lines",
+						"chromatic passage",
+						"chromatism",
 						"classical music",
-						"romantic era"
+						"dancla",
+						"delicate",
+						"efficient elbow moves",
+						"elbow",
+						"g major",
+						"intermediate friendly",
+						"romantic era",
+						"slurred passages",
+						"slurred string changes",
+						"slurring notes",
+						"slurs",
+						"string changes",
+						"string crossing",
+						"string crossing control",
+						"ternary piece",
+						"ternary pulse",
+						"valse",
+						"valse rhythm",
+						"waltz"
 				],
 				"course_category": [
 						{
@@ -1347,7 +1482,7 @@
 				"course_short_description": "The end goal of this step-by-step guide is to play a lovely Valse that has a very bright and bittersweet melody, and exercises leading to it will give every player the comfort to execute the piece as delicately as it needs to be.",
 				"course_instrument": "violin",
 				"course_level": "intermediate",
-				"course_sort_value": "66",
+				"course_sort_value": "10",
 				"course_duration": "1~2w",
 				"lessons": [
 						{
@@ -1402,8 +1537,26 @@
 				"course_content": "<h4>Highlights</h4>\n<ul>\n <li>\nEnding phrases with a decrescendo.</li>\n <li>\nControlling string crossings with efficient elbow moves.</li>\n <li>\nLearning the tension-resolution sound of dominant and tonic chords.</li>\n</ul>\n<h4>Description</h4>\nThis course prepares the learner to play a melodic etude by Dancla from his book of 36 Easy and Melodic Studies, Op. 84. Each step leads the player to gain ease at the tonality, the rhythmic content and the specific challenges the player has to achieve successfully to play the piece with comfort and joy.\n<h4>Requirement</h4>\n<ul>\n <li>\nNovice level of score reading ability. (slow but steady deciphering skills for the notes that coincide 1st position on the violin fretboard)</li>\n <li>\nProficiency in half and quarter notes.</li>\n <li>\nMobility of 2nd finger. (to switch between 1-23 / 12-3 hand positions)</li>\n</ul>\n<h4>What's next</h4>\nNext course: <a href=\"https://scorewind.com/courses/learn-to-appreciate-musical-phrases/\">Learn to Perform Musical Phrases Clearly</a>",
 				"course_image": "https://scorewind.com/wp-content/uploads/2020/11/0_main_banner_5.jpg",
 				"course_tag": [
+						"1-23-4",
+						"12-3-4",
+						"4/4",
+						"beginner intermediate",
+						"beginner level slurs",
+						"c major",
+						"cantante",
 						"classical music",
-						"romantic era"
+						"dancla",
+						"dynamics control",
+						"even bow strokes",
+						"fundamental technique",
+						"intonation workout",
+						"long bow strokes",
+						"moderato",
+						"phrasing",
+						"romantic era",
+						"simple rhythm",
+						"string crossing",
+						"violin"
 				],
 				"course_category": [
 						{
@@ -1420,7 +1573,7 @@
 				"course_short_description": "This course prepares you to play an etude by Dancla from '36 Easy and Melodic Studies, Op. 84'. Each step will lead you to gain ease at the tonality, the rhythmic content and the specific challenges to play the piece with comfort and joy.",
 				"course_instrument": "violin",
 				"course_level": "beginner-intermediate",
-				"course_sort_value": "55",
+				"course_sort_value": "2",
 				"course_duration": "1~2w",
 				"lessons": [
 						{
@@ -1530,8 +1683,24 @@
 				"course_content": "<h4>Highlights</h4>\n<ul>\n <li>\nExecuting long lasting phrases that include fast bow strokes.</li>\n <li>\nPlaying eight note runs.</li>\n <li>\nLearning to play long phrases that include slurs.</li>\n <li>\nLearning to extend the 3rd finger to gain 12-34 hand position.</li>\n</ul>\n<h4>Description</h4>\nThis method uses a step-by-step guide prepared by the ScoreWind teachers to introduce the players to slurring longer passages than 2 notes. Goal piece at the end of the workout exercises is a wonderful musical piece, Number 5 from the Melodic Studies op.84 by C. Dancla. Although the name indicates serious practice, the pieces in this book have a lovely classical musical quality!\n<h4>Requirement</h4>\n<ul>\n <li>\nNovice level of score reading ability. (slow but steady deciphering skills for the notes that coincide 1st position on the violin fretboard)</li>\n <li>\nProficiency in half, quarter, eight and dotted notes.</li>\n <li>\nMobility of 2nd finger. (to switch between 1-23 / 12-3 hand positions)</li>\n <li>\nProficiency in using 4th finger.</li>\n <li>\nProficiency in slurring 2 to 4 notes in one bow evenly.</li>\n</ul>\n<h4>What's next</h4>\nNext course: <a href=\"https://scorewind.com/courses/become-better-at-long-lasting-8th-note-phrases/\">Become Better at Long Lasting 8th Note Phrases</a>",
 				"course_image": "https://scorewind.com/wp-content/uploads/2021/01/violin-banner-method-10.jpg",
 				"course_tag": [
+						"1-23-4",
+						"12--34",
+						"12-3-4",
+						"4/4",
+						"8th note runs",
+						"beginner intermediate",
 						"classical music",
-						"romantic era"
+						"dancla",
+						"fast bow strokes",
+						"finger extension",
+						"g major",
+						"long lasting phrases",
+						"long phrases",
+						"moderato",
+						"phrasing",
+						"romantic era",
+						"slurred passages",
+						"violin"
 				],
 				"course_category": [
 						{
@@ -1548,7 +1717,7 @@
 				"course_short_description": "This method uses a step-by-step guide prepared by the ScoreWind teachers to introduce the players to slurring longer passages than 2 notes. At the end of the exercises you will play Etude N. 5, Op.84 by C. Dancla.",
 				"course_instrument": "violin",
 				"course_level": "beginner-intermediate",
-				"course_sort_value": "66",
+				"course_sort_value": "4",
 				"course_duration": "1~2w",
 				"lessons": [
 						{
@@ -1636,11 +1805,18 @@
 				"course_content": "<h4>Highlights</h4>\n<ul>\n <li>\nAscending and descending melodic arpeggios.</li>\n <li>\nSlow to fast rhythmic challenges.</li>\n <li>\nClosed and open broken thirds.</li>\n</ul>\n<h4>Description</h4>\nThis step by step method will help you practice an etude composed by Fernando Sor, with which you can explore ascending and descending melodic arpeggios, slow to fast rhythmic challenges, as well as both closed and open broken thirds.\n<h4>Requirement</h4>\n<ul>\n <li>\nCompletion of course: \u2018First Position Fondations\u2019.</li>\n <li>\nNovice level of score reading ability. (slow but steady deciphering skills for the notes that coincide 1st position on the guitar fretboard)</li>\n <li>\nProficiency in quarter and eight notes.</li>\n <li>\nNovice level of using the 4th finger.</li>\n <li>\nBeginner level in left hand vertical finger extension.</li>\n</ul>\n<h4>What's next</h4>\nNext course: <a href=\"https://scorewind.com/courses/introduction-to-chords-and-arpeggios/\">Introduction to Chords and Arpeggios</a>",
 				"course_image": "https://scorewind.com/wp-content/uploads/2020/10/Guitar-banner-method-4.jpg",
 				"course_tag": [
+						"4/4",
+						"andante",
+						"beginner level harmony",
+						"beginner level rhythm",
+						"c major",
 						"classical Era",
 						"classical music",
+						"fernando sor",
+						"left hand vertical extensions",
 						"melodic arpeggios",
-						"sor",
-						"thirds"
+						"parallel voicing",
+						"single notes"
 				],
 				"course_category": [
 						{
@@ -1657,7 +1833,7 @@
 				"course_short_description": "This step by step method will help you practice an etude composed by Fernando Sor, with with you can explore ascending and descending melodic arpeggios, slow to fast rhythmic challenges, as well as both closed and open broken thirds.",
 				"course_instrument": "guitar",
 				"course_level": "beginner-intermediate",
-				"course_sort_value": "66",
+				"course_sort_value": "2",
 				"course_duration": "2w",
 				"lessons": [
 						{
@@ -1745,12 +1921,18 @@
 				"course_content": "<h4>Highlights</h4>\n<ul>\n <li>\nFocus on melody/harmonic treatment.</li>\n <li>\nLeft hand\u2019s movement in chord blocks.</li>\n <li>\nRight hand flow through technical arpeggios.</li>\n</ul>\n<h4>Description</h4>\nExplore essential chords and arpeggios in this step by step method ideal for beginner players. In this etude the arpeggios have a more harmonic treatment, even though the intervals are also the melody of the piece. The goal is to move the left hand fingers in blocks of chords, while keeping a flowing movement of the right hand fingers through the strings to play the arpeggio.\n<h4>Requirement</h4>\n<ul>\n <li>\nCompletion of course: \u2018Getting Familiar With Melodic Arpeggios and Thirds\u2019</li>\n <li>\nNovice level of score reading ability.</li>\n <li>\nBeginner level in right hand arpeggiation.</li>\n <li>\nBeginner level in using the right hand\u2019s ring finger (a)</li>\n <li>\nStable tempo, and stable 8th notes on 2/4 bars.</li>\n <li>\nBeginner level in left hand vertical finger extension.</li>\n</ul>\n<h4>What's next</h4>\nNext course: <a href=\"https://scorewind.com/courses/classical-homophony-and-arpeggiation/\">Classical Homophony and Arpeggiation</a>",
 				"course_image": "https://scorewind.com/wp-content/uploads/2020/10/Guitar-banner-method-6.jpg",
 				"course_tag": [
+						"2/4",
+						"allegretto",
+						"arpeggio technique",
 						"beginner friendly",
-						"chords",
+						"beginner level harmony",
+						"beginner level rhythm",
+						"blocks of chords",
+						"c major",
 						"classical Era",
 						"classical music",
-						"sor",
-						"technical arpeggios"
+						"fernando sor",
+						"first position"
 				],
 				"course_category": [
 						{
@@ -1767,7 +1949,7 @@
 				"course_short_description": "Explore essential guitar chords and arpeggios in this step by step method ideal for beginner players. The etude by Fernando Sor focuses on the harmonic treatment of arpeggios. The main goal is to develop the right hand arpeggio technique.",
 				"course_instrument": "guitar",
 				"course_level": "beginner-intermediate",
-				"course_sort_value": "66",
+				"course_sort_value": "3",
 				"course_duration": "2w",
 				"lessons": [
 						{
@@ -1833,16 +2015,34 @@
 				"course_content": "<h4>Highlights</h4>\n<ul>\n <li>\nD major foundations.</li>\n <li>\nSecond position playing.</li>\n <li>\nBallance and use of all left hand fingers.</li>\n <li>\nBroad scales, arpeggios, homophonic voicing, single slurs.</li>\n <li>\nThumb and bass line practice.</li>\n</ul>\n<h4>Description</h4>\nThis step by step method will help you building the foudantions for playing pieces in D major. Playing a piece in this tonality means that you will be practicing second position fingerings. It can be more challenging than playing in first position, because you have less access to open strings, which would help the left hand. Now you will be using in a constant your four fingers (1, 2, 3, 4), and here the secret for a good hand position is to make sure that your 4th finger is always near the fretboard, and horizontally aligned with your 1st finger. Specifically with this etude by Fernando Sor, you will practice scales of a broad range, homophonic voicings, arpeggios, single slurs, position changes, and fast flowing basslines.\n<h4>Requirement</h4>\n<ul>\n <li>\nBeginner-intermediate level of score reading ability.</li>\n <li>\nBeginner level in position changes.</li>\n <li>\nProficiency in 1st position scales.</li>\n <li>\nProficiency in the fast exchange between index and middle fingers (i,m).</li>\n <li>\nProficiency in stable left hand and control of all four fingers.</li>\n <li>\nComfortable with two parallel voice leading.</li>\n</ul>",
 				"course_image": "https://scorewind.com/wp-content/uploads/2020/10/Guitar-banner-method-4.jpg",
 				"course_tag": [
+						"2nd position",
 						"arpeggios",
+						"ascending scales",
+						"beginner intermediate",
 						"classical Era",
 						"classical music",
 						"d major",
+						"descending scales",
+						"fast flowing bassline",
+						"foundations",
+						"fourth finger alignment",
+						"fundamental technique",
+						"homophonic phrasing",
+						"homophonic voicing",
+						"homophony",
+						"left hand balance",
+						"long scales",
 						"melodic bass",
+						"melodic bass line",
 						"position changes",
 						"scales",
 						"second position",
+						"single slurs",
 						"slurs",
-						"sor"
+						"sor",
+						"technique challenge",
+						"thumb",
+						"thumb workout"
 				],
 				"course_category": [
 						{
@@ -1859,7 +2059,7 @@
 				"course_short_description": "This step by step method will help you build the foudantions for playing in D major. Playing in this tonality means that you will be practicing second position fingerings. This tonality workout includes scales of a broad range, homophonic voicings, arpeggios, single slurs, position changes, and fast flowing basslines.",
 				"course_instrument": "guitar",
 				"course_level": "beginner-intermediate",
-				"course_sort_value": "52",
+				"course_sort_value": "10",
 				"course_duration": "1~3w",
 				"lessons": [
 						{
@@ -2117,7 +2317,7 @@
 				"course_short_description": "In this piano course (part 2) you will find pieces in C Major, written by some of the most famous composer for piano pedagogy. They introduce elements that are used throughout the life of a piano player.",
 				"course_instrument": "piano",
 				"course_level": "beginner",
-				"course_sort_value": "57",
+				"course_sort_value": "2",
 				"course_duration": "2w",
 				"lessons": [
 						{
@@ -2139,8 +2339,25 @@
 				"course_content": "<h4>Highlights</h4>\n<ul>\n <li>\nProficiency in dotted rhythms.</li>\n <li>\nSlurring notes over the beat.</li>\n <li>\nPerforming a piece that includes a section in the relative minor key.</li>\n <li>\nExecuting clear sounding musical phrases.</li>\n</ul>\n<h4>Description</h4>\nNumber 4, from Dancla's Easy and Melodic Studies Op. 84, is a great piece of music for one to start with following when a phrase begins and ends. Phrases in music are like sentences that we speak, they start and they finish. In this piece, the arch shape phrases beginning calmly, opening up and landing down at a lower note than anything that happened before them show a very clear line of their structure. Try to fade out each ending note for the music to gain shape.\n<h4>Requirement</h4>\n<ul>\n <li>\nNovice level of score reading ability. (slow but steady deciphering skills for the notes that coincide 1st position on the violin fretboard)</li>\n <li>\nMobility of 2nd finger. (to switch between 1-23 / 12-3 hand positions)</li>\n <li>\nProficiency in half, quarter and eight notes.</li>\n <li>\nProficiency in slurring 2 to 4 notes in one bow evenly.</li>\n</ul>\n<h4>What's next</h4>\nNext course: <a href=\"https://scorewind.com/courses/get-fluent-at-slurring-4-notes/\">Get Fluent at Slurring 4 Notes</a>",
 				"course_image": "https://scorewind.com/wp-content/uploads/2021/01/violin-banner-method-9.jpg",
 				"course_tag": [
+						"01-2-3-4",
+						"1-23-4",
+						"12-3-4",
+						"4/4",
+						"andante",
+						"beginner intermediate",
+						"beginner level slurs",
+						"c major",
 						"classical music",
-						"romantic era"
+						"dancla",
+						"dolce",
+						"dotted notes",
+						"dotted rhythm",
+						"dynamics control",
+						"fundamental technique",
+						"phrasing",
+						"relative minor",
+						"romantic era",
+						"violin"
 				],
 				"course_category": [
 						{
@@ -2157,7 +2374,7 @@
 				"course_short_description": "Number 4 from Dancla's Easy and Melodic Studies op.84 is a great piece of music for one to start with following when a phrase begins and ends. Phrases in music are like sentences that we speak, they start and they finish.",
 				"course_instrument": "violin",
 				"course_level": "beginner-intermediate",
-				"course_sort_value": "55",
+				"course_sort_value": "3",
 				"course_duration": "1~2w",
 				"lessons": [
 						{
@@ -2266,7 +2483,7 @@
 				"course_short_description": "The part 1 of this course will progressively lead you through mid-beginner level in arpeggio technique of the Classical-Romantic era (over 200 years ago!) of the classical guitar. ",
 				"course_instrument": "guitar",
 				"course_level": "beginner-intermediate",
-				"course_sort_value": "26",
+				"course_sort_value": "41478-1",
 				"course_duration": "4~8w",
 				"lessons": [
 						{
@@ -2364,7 +2581,7 @@
 				"course_short_description": "The part 2 of this course will progressively lead you through intermediate level in arpeggio technique of the Classical-Romantic era (over 200 years ago!) of the classical guitar.",
 				"course_instrument": "guitar",
 				"course_level": "intermediate",
-				"course_sort_value": "27",
+				"course_sort_value": "41478-2",
 				"course_duration": "4~8w",
 				"lessons": [
 						{
@@ -2407,7 +2624,7 @@
 				"course_short_description": "This method is a continuation of the method \u201cMaster the Classical Arpeggio Part 1\u201d, having a similar progressive characteristic, though now focusing on pieces of intermediate to mid-intermediate difficulty.",
 				"course_instrument": "guitar",
 				"course_level": "intermediate",
-				"course_sort_value": "28",
+				"course_sort_value": "41478-3",
 				"course_duration": "4~8w",
 				"lessons": [
 						{
@@ -2461,7 +2678,7 @@
 				"course_short_description": "The part 4 of this course will progressively lead you through intermediate levels in arpeggio technique of the Classical-Romantic era (over 200 years ago!) of the classical guitar.",
 				"course_instrument": "guitar",
 				"course_level": "intermediate",
-				"course_sort_value": "29",
+				"course_sort_value": "41478-4",
 				"course_duration": "4~8w",
 				"lessons": [
 						{
@@ -2504,7 +2721,7 @@
 				"course_short_description": "The part 5 of this course will progressively lead you through intermediate-advance levels in arpeggio technique of the Classical-Romantic era (over 200 years ago!) of the classical guitar. ",
 				"course_instrument": "guitar",
 				"course_level": "intermediate-advanced",
-				"course_sort_value": "30",
+				"course_sort_value": "41478-5",
 				"course_duration": "5~10w",
 				"lessons": [
 						{
@@ -2569,7 +2786,7 @@
 				"course_short_description": "The part 6 of this course will progressively lead you through intermediate-advanced levels in arpeggio technique of the Classical-Romantic era (over 200 years ago!) of the classical guitar. ",
 				"course_instrument": "guitar",
 				"course_level": "intermediate-advanced",
-				"course_sort_value": "31",
+				"course_sort_value": "41478-6",
 				"course_duration": "5~10w",
 				"lessons": [
 						{
@@ -2591,10 +2808,32 @@
 				"course_content": "<h4>Highlights</h4>\n<ul>\n<li>\nLearning to make notes last while the melody goes on on other voices.\n</li>\n<li>\nPlaying melody and bass line simultaneously.\n</li>\n<li>\nObtaining basic right hand arpeggio technique.\n</li>\n<li>\nDeveloping the melodic arpeggio phrasings.\n</li>\n<li>\nApplying voice leading to melodic phrases.\n</li>\n<li>\nPlaying a piece in 3/8 measure.\n</li>\n<li>\nObtaining basic left hand slur technique.\n</li>\n</ul>\n<h4>Description</h4>\n<p>This course (part 1) introduces the basic vocabulary of the classical romantic guitar, music that has been played for 200 years! Throughout the next 5 pieces you will greatly improve your skills on C major and G major tonalities. By practicing these etudes you will not only explore tonalities, but you will be progressively working on&nbsp;a wide range of scales, homophonic voicing, arpeggios, single slurs, position changes, and fast flowing bass-lines. The method consists of an etude selection from <strong>Le Papillon, Op. 50</strong>&nbsp;by Mauro Giuliani,&nbsp;<strong>24 Very Easy Exercises, Op. 35</strong>, and&nbsp;<strong>24 Short Progressive Pieces, Op. 44</strong>&nbsp;by Fernando Sor.</p>\n<p></p>\n\n<p></p>\n\n<p></p>\n\n<p></p>\n<p>There is a continuous rise in the difficulty level throughout the method, so it is recommended that you feel comfortable playing the etudes from the first steps before engaging on a harder piece of a later step. You can listen to the whole set of pieces and understand that they do share similar classical vocabulary, therefore knowing one piece WILL make it easier to learn the next one.</p>\n<h4>Requirement</h4>\n<ul>\n<li>\nIntermediate level of score reading ability.\n</li>\n<li>\nFamiliarity with melodic arpeggios.\n</li>\n<li>\nFamiliarity with C, G, and D Major tonalities.\n</li>\n<li>\nFluency in melody playing in first position.\n</li>\n<li>\nFamiliarity with playing more than one note at the same time.\n</li>\n</ul>\n<h4>What's next</h4>\n<p>Next course: <a href=\"https://scorewind.com/courses/mid-beginner-guitar-pieces-from-the-classical-era-part-2/\">Mid-Beginner Guitar Pieces From the Classical Era - Part 2</a></p>",
 				"course_image": "https://scorewind.com/wp-content/uploads/2021/02/Demo-banner-guitar-8.jpg",
 				"course_tag": [
+						"2/4",
+						"3/4",
+						"3/8",
+						"4/4",
+						"allegretto",
+						"andante",
+						"andantino",
+						"arpeggio technique",
+						"basic",
+						"c major",
 						"classical Era",
 						"classical music",
-						"giuliani",
-						"sor"
+						"fast flowing bassline",
+						"fernando sor",
+						"fundamental technique",
+						"g major",
+						"homophonic voicing",
+						"mauro giuliani",
+						"melodic arpeggios",
+						"melodic bass line",
+						"mid-beginner",
+						"phrasing",
+						"position changes",
+						"slur technique",
+						"ternary pulse",
+						"voice leading"
 				],
 				"course_category": [
 						{
@@ -2611,16 +2850,16 @@
 				"course_short_description": "With this guitar method you will be able to experience Scorewind's didactic 'Path' approach to music for free! This method introduces the basic vocabulary of the classical romantic guitar, music that has been played for 200 years!",
 				"course_instrument": "guitar",
 				"course_level": "beginner-intermediate",
-				"course_sort_value": "1",
+				"course_sort_value": "75036-1",
 				"course_duration": "4~8w",
 				"lessons": [
 						{
 								"id": 75037,
 								"scorewind_id": 0,
 								"lesson_title": "Introduction to &#8216;Mid-Beginner Guitar Pieces From the Classical Era &#8211; Part 1 (Demo)&#8217;",
-								"lesson_content": "<p>This course (part 1) introduces the basic vocabulary of the classical romantic guitar, music that has been played for 200 years! Throughout the next 5 pieces you will greatly improve your skills on C major and G major tonalities. By practicing these etudes you will not only explore tonalities, but you will be progressively working on\u00a0a wide range of scales, homophonic voicing, arpeggios, single slurs, position changes, and fast flowing bass-lines. The method consists of an etude selection from <strong>Le Papillon, Op. 50</strong>\u00a0by Mauro Giuliani,\u00a0<strong>24 Very Easy Exercises, Op. 35</strong>, and\u00a0<strong>24 Short Progressive Pieces, Op. 44</strong>\u00a0by Fernando Sor.</p>\n\n<p>There is a continuous rise in the difficulty level throughout the method, so it is recommended that you feel comfortable playing the etudes from the first steps before engaging on a harder piece of a later step. You can listen to the whole set of pieces and understand that they do share similar classical vocabulary, therefore knowing one piece WILL make it easier to learn the next one.</p>",
+								"lesson_content": "<p>This course (part 1) introduces the basic vocabulary of the classical romantic guitar, music that has been played for 200 years! Throughout the next 5 pieces you will greatly improve your skills on C major and G major tonalities. By practicing these etudes you will not only explore tonalities, but you will be progressively working on\u00a0a wide range of scales, homophonic voicing, arpeggios, single slurs, position changes, and fast flowing bass-lines. The method consists of an etude selection from <strong>Le Papillon, Op. 50</strong>\u00a0by Mauro Giuliani,\u00a0<strong>24 Very Easy Exercises, Op. 35</strong>, and\u00a0<strong>24 Short Progressive Pieces, Op. 44</strong>\u00a0by Fernando Sor.</p>\n<p>There is a continuous rise in the difficulty level throughout the method, so it is recommended that you feel comfortable playing the etudes from the first steps before engaging on a harder piece of a later step. You can listen to the whole set of pieces and understand that they do share similar classical vocabulary, therefore knowing one piece WILL make it easier to learn the next one.</p>",
 								"lesson_composer": "",
-								"lesson_video": "",
+								"lesson_video": "https://scorewind.com/wp-content/uploads/2021/02/PATHS-Mid-Beginner-Guitar-Pieces-From-The-Classical-Era-Part-1.mp4",
 								"lesson_score_viewer": "",
 								"lesson_image": "https://scorewind.com/wp-content/uploads/2021/02/Intro-Image-scorewind.jpg",
 								"lesson_step": 1
@@ -2633,6 +2872,7 @@
 				"course_content": "<h4>Highlights</h4>\n<ul>\n <li>\nExecuting \"call and response\" melody style within bass line and melody line.</li>\n <li>\nPlaying quarter notes and 8th notes combinations.</li>\n <li>\nPlaying a piece in G Major.</li>\n <li>\nExecuting melodic bass lines with the thumb.</li>\n <li>\nPerforming in 2nd position.</li>\n <li>\nPlaying wide scales.</li>\n <li>\nJumping to 5th position.</li>\n</ul>\n<h4>Description</h4>\nThis course (part 2) introduces the basic vocabulary of the classical romantic guitar, music that has been played for 200 years! Throughout the next 5 pieces you will greatly improve your skills on C major, G major and D major tonalities. By practicing these etudes you will not only explore tonalities, but you will be progressively working on&nbsp;a wide range of scales, homophonic voicing, arpeggios, single slurs, position changes, and fast flowing bass-lines. The method consists of an etude selection from&nbsp;Le Papillon, Op. 50&nbsp;by Mauro Giuliani,&nbsp;24 Very Easy Exercises, Op. 35, and&nbsp;24 Short Progressive Pieces, Op. 44&nbsp;by Fernando Sor.\n\nThere is a continuous rise in the difficulty level throughout the method, so it is recommended that you feel comfortable playing the etudes from the first steps before engaging on a harder piece of a later step. You can listen to the whole set of pieces and understand that they do share similar classical vocabulary, therefore knowing one piece WILL make it easier to learn the next one.\n<h4>Requirement</h4>\n<ul>\n <li>\nIntermediate level of score reading ability.</li>\n <li>\nFamiliarity with melodic arpeggios.</li>\n <li>\nFluency in melody playing in first position.</li>\n <li>\nFamiliarity with playing more than one note at the same time.</li>\n <li>\nKnowing notes of G Major on guitar.</li>\n <li>\nFamiliarity with dotted rhhythms.</li>\n</ul>\n<h4>What's next</h4>\nNext course: <a href=\"https://scorewind.com/courses/master-the-classical-guitar-arpeggios-part-1/\">Master The Classical Guitar Arpeggios - Part 1</a>",
 				"course_image": "https://scorewind.com/wp-content/uploads/2020/10/Guitar-banner-method-3.jpg",
 				"course_tag": [
+						"call response",
 						"classical Era",
 						"classical music",
 						"giuliani",
@@ -2653,16 +2893,16 @@
 				"course_short_description": "This course (part 2) introduces the basic vocabulary of the classical romantic guitar, music that has been played for 200 years!",
 				"course_instrument": "guitar",
 				"course_level": "beginner-intermediate",
-				"course_sort_value": "25",
+				"course_sort_value": "75036-2",
 				"course_duration": "4~8w",
 				"lessons": [
 						{
 								"id": 88904,
 								"scorewind_id": 0,
 								"lesson_title": "Introduction to &#8216;Mid-Beginner Guitar Pieces From the Classical Era &#8211; Part 2&#8217;",
-								"lesson_content": "<p>This course (part 2) introduces the basic vocabulary of the classical romantic guitar, music that has been played for 200 years! Throughout the next 5 pieces you will greatly improve your skills on C major, G major and D major tonalities. By practicing these etudes you will not only explore tonalities, but you will be progressively working on\u00a0a wide range of scales, homophonic voicing, arpeggios, single slurs, position changes, and fast flowing bass-lines. The method consists of an etude selection from <strong>Le Papillon, Op. 50</strong>\u00a0by Mauro Giuliani,\u00a0<strong>24 Very Easy Exercises, Op. 35</strong>, and\u00a0<strong>24 Short Progressive Pieces, Op. 44</strong>\u00a0by Fernando Sor.</p>\n\n<p>There is a continuous rise in the difficulty level throughout the method, so it is recommended that you feel comfortable playing the etudes from the first steps before engaging on a harder piece of a later step. You can listen to the whole set of pieces and understand that they do share similar classical vocabulary, therefore knowing one piece WILL make it easier to learn the next one.</p>",
+								"lesson_content": "<p>This course (part 2) introduces the basic vocabulary of the classical romantic guitar, music that has been played for 200 years! Throughout the next 5 pieces you will greatly improve your skills on C major, G major and D major tonalities. By practicing these etudes you will not only explore tonalities, but you will be progressively working on\u00a0a wide range of scales, homophonic voicing, arpeggios, single slurs, position changes, and fast flowing bass-lines. The method consists of an etude selection from <strong>Le Papillon, Op. 50</strong>\u00a0by Mauro Giuliani,\u00a0<strong>24 Very Easy Exercises, Op. 35</strong>, and\u00a0<strong>24 Short Progressive Pieces, Op. 44</strong>\u00a0by Fernando Sor.</p>\n<p>There is a continuous rise in the difficulty level throughout the method, so it is recommended that you feel comfortable playing the etudes from the first steps before engaging on a harder piece of a later step. You can listen to the whole set of pieces and understand that they do share similar classical vocabulary, therefore knowing one piece WILL make it easier to learn the next one.</p>",
 								"lesson_composer": "",
-								"lesson_video": "",
+								"lesson_video": "https://scorewind.com/wp-content/uploads/2021/04/PATHS-Mid-Beginner-Guitar-Pieces-From-The-Classical-Era-Part-2.mp4",
 								"lesson_score_viewer": "",
 								"lesson_image": "https://scorewind.com/wp-content/uploads/2021/02/Intro-Image-scorewind.jpg",
 								"lesson_step": 1
@@ -2675,8 +2915,27 @@
 				"course_content": "<h4>Highlights</h4>\n<ul>\n <li>\nExecuting vibrato on long notes.</li>\n <li>\nExecuting a 3/4 piece.</li>\n <li>\nExecuting dynamic changes per bar for musical phrasing.</li>\n <li>\nControlling half tone changes of 1st finger.</li>\n <li>\nGetting used to feeling the pulse of the music.</li>\n</ul>\n<h4>Description</h4>\nValse (waltz) and other forms of 3/4 compasses play an important part in the classical repertoire. Most of us start playing an instrument with 4/4 pieces, which means getting into the rhythmic pulse of waltzes can take some little time to adapt. This method helps players to feel the 3 beat long bars and adds some new scales to the game.\n<h4>Requirement</h4>\n<ul>\n <li>\nIntermediate level of score reading ability.</li>\n <li>\nMobility of 1st finger to extend backward.</li>\n <li>\nMobility of 2nd and 3rd fingers.</li>\n <li>\nProficiency in using 4th finger.</li>\n <li>\nRelaxed right hand in order to execute dynamics.</li>\n <li>\nProficiency in half, quarter, eight and dotted notes.</li>\n</ul>\n<h4>What's next</h4>\nNext course: <a href=\"https://scorewind.com/courses/contrasting-musical-ideas/\">Contrasting Musical Ideas</a>",
 				"course_image": "https://scorewind.com/wp-content/uploads/2021/01/violin-banner-method-13.jpg",
 				"course_tag": [
+						"1st finger control",
+						"3/4 piece",
 						"classical music",
-						"romantic era"
+						"dancla",
+						"dynamic chances",
+						"feeling in three",
+						"half notes",
+						"intermediate friendly",
+						"long note vibrato",
+						"musical intention",
+						"musical phrases",
+						"musicality",
+						"romantic era",
+						"scales",
+						"stable tempo",
+						"ternary",
+						"ternary piece",
+						"ternary pulse",
+						"valse",
+						"vibrato",
+						"waltz"
 				],
 				"course_category": [
 						{
@@ -2693,7 +2952,7 @@
 				"course_short_description": "Valse (waltz) and other forms of 3/4 compasses play an important part in the classical repertoire. Most of us start playing an instrument with 4/4 pieces, which means getting into the rhythmic pulse of waltzes can take some little time to adapt.",
 				"course_instrument": "violin",
 				"course_level": "intermediate",
-				"course_sort_value": "66",
+				"course_sort_value": "8",
 				"course_duration": "1~2w",
 				"lessons": [
 						{
@@ -2812,7 +3071,7 @@
 				"course_short_description": "With this method you will be practicing the art of playing parallel voices, which is one of the most used techniques in the classical-romantic repertoire.",
 				"course_instrument": "guitar",
 				"course_level": "intermediate",
-				"course_sort_value": "32",
+				"course_sort_value": "40088-1",
 				"course_duration": "2hr 30min",
 				"lessons": [
 						{
@@ -2909,7 +3168,7 @@
 				"course_short_description": "In this course you continue to practice the art of playing parallel voices, which is one of the most used techniques in the classical-romantic guitar repertoire.",
 				"course_instrument": "guitar",
 				"course_level": "intermediate",
-				"course_sort_value": "33",
+				"course_sort_value": "40088-2",
 				"course_duration": "4~8w",
 				"lessons": [
 						{
@@ -2953,7 +3212,7 @@
 				"course_short_description": "With this course (part 3) you will be practicing the art of playing parallel voices, which is one of the most used techniques in the classical-romantic repertoire.",
 				"course_instrument": "guitar",
 				"course_level": "intermediate-advanced",
-				"course_sort_value": "34",
+				"course_sort_value": "40088-3",
 				"course_duration": "5~10w",
 				"lessons": [
 						{
@@ -3052,7 +3311,7 @@
 				"course_short_description": "With this course (part 4) you will be practicing the art of playing parallel voices, which is one of the most used techniques in the classical-romantic repertoire.",
 				"course_instrument": "guitar",
 				"course_level": "advanced",
-				"course_sort_value": "35",
+				"course_sort_value": "40088-4",
 				"course_duration": "6~12w",
 				"lessons": [
 						{
@@ -3074,8 +3333,30 @@
 				"course_content": "<h4>Highlights</h4>\n<ul>\n <li>\nExecuting double stops.</li>\n <li>\nExecuting chords.</li>\n <li>\nExecuting long lasting 8th note runs.</li>\n <li>\nGaining proficiency in classical era musical phrasing.</li>\n</ul>\n<h4>Description</h4>\nThis course builds its direction towards a well known melody by the one and only W.A. Mozart. It is a piece that has a bit of everything for a mid-beginner violinist to see as achievable challenges. Staccatos on the same bow, slurred string crossings, dynamic changes, uneven phrase lengths and repeated bars that ask to be played ever so slightly differently, and as a final touch; some very achievable double stops to final the piece!\n<h4>Requirement</h4>\n<ul>\n <li>\nIntermediate level of score reading ability.</li>\n <li>\nMobility of left hand for diagonal shapes (rapid shifts or maintaining intervals between strings)</li>\n <li>\nSwift string crossing abilities.</li>\n <li>\nProficiency in half, quarter, eight and dotted notes.</li>\n <li>\nRelaxed right hand in order to execute dynamics.</li>\n <li>\nNovice experience in executing staccato technique.</li>\n</ul>\n<h4>What's next</h4>\nNext course: <a href=\"https://scorewind.com/courses/preparation-for-a-violin-concerto-in-style-of-vivaldi-part-1/\">Preparation for a Violin Concerto in Style of Vivaldi - Part 1</a>",
 				"course_image": "https://scorewind.com/wp-content/uploads/2021/01/violin-banner-method-3.jpg",
 				"course_tag": [
+						"8th note passages",
+						"chords",
 						"classical music",
-						"romantic era"
+						"classical phrasing",
+						"dancla",
+						"double stops",
+						"dynamic chances",
+						"dynamics control",
+						"eight note runs",
+						"intermediate friendly",
+						"long 8th note runs",
+						"long lasting phrases",
+						"mid-beginner",
+						"mozart",
+						"musical intention",
+						"musical phrases",
+						"musicality",
+						"repetition",
+						"romantic era",
+						"slurred string changes",
+						"slurred string crossing",
+						"slurs",
+						"staccato",
+						"staccato bow"
 				],
 				"course_category": [
 						{
@@ -3092,7 +3373,7 @@
 				"course_short_description": "This course builds its direction towards a well known melody by the one and only W.A. Mozart. It is a piece that has a bit of everything for a mid-beginner violinist to see as achievable challenges.",
 				"course_instrument": "violin",
 				"course_level": "intermediate",
-				"course_sort_value": "66",
+				"course_sort_value": "11",
 				"course_duration": "2w",
 				"lessons": [
 						{
@@ -3158,9 +3439,19 @@
 				"course_content": "<h4>Highlights</h4>\n<ul>\n <li>\nTernary pulse practice</li>\n <li>\nIntroduction to small slurred passages</li>\n <li>\nLegato workout.</li>\n</ul>\n<h4>Description</h4>\nIn this step by step method you will be practicing ternary pulse, typically called the \"feeling in three\", essential for any beginner players. One of the challenges of the etude on this method is to keep a stable count of 3\u2019s required to play a 3/8 bar piece. It introduces small slur passages, but which demand the use of the fourth finger to pull the string. Try to keep the legato when changing the fingers\u2019 position between the third and first beats of every bar.\n<h4>Requirement</h4>\n<ul>\n <li>\nCompletion of course: \u2018Classical Homophony and Arpeggiation\u2019.</li>\n <li>\nNovice level of score reading ability.</li>\n <li>\nBeginner level in keeping stable tempo, and stable 8th notes on a ternary piece.</li>\n <li>\nProficiency in playing two notes at the same time.</li>\n <li>\nBeginner level in parallel voicing.</li>\n <li>\nProficiency in left hand vertical finger extension.</li>\n <li>\nComfortable with the frequent use of 4th finger.</li>\n</ul>\n<h4>What's next</h4>\nNext course: <a href=\"https://scorewind.com/courses/waltzing-arpeggio-and-homophony/\">Waltzing Arpeggio and Homophony</a>",
 				"course_image": "https://scorewind.com/wp-content/uploads/2020/10/Guitar-banner-method-2.jpg",
 				"course_tag": [
+						"3/8",
+						"andantino",
+						"arpeggio technique",
+						"beginner intermediate",
+						"beginner level harmony",
+						"c major",
 						"classical Era",
 						"classical music",
-						"sor",
+						"first position",
+						"fourth finger workout",
+						"melodic bass line",
+						"parallel voicing",
+						"slur technique",
 						"ternary pulse"
 				],
 				"course_category": [
@@ -3178,7 +3469,7 @@
 				"course_short_description": "In this step by step method to practice an etude by Fernando Sor, you will be focussing on ternary pulse, typically called the \"feeling in three\", essential for any beginner player. This method will also introduce slur passages for all the left hand fingers.",
 				"course_instrument": "guitar",
 				"course_level": "beginner-intermediate",
-				"course_sort_value": "66",
+				"course_sort_value": "5",
 				"course_duration": "2~3w",
 				"lessons": [
 						{
@@ -3286,16 +3577,16 @@
 				"course_short_description": "This course focuses mainly on D Major and G Major pieces that have string crossing as part of their essence, and it leads to a well known concerto composed for learners by Oscar Rieding.",
 				"course_instrument": "violin",
 				"course_level": "beginner-intermediate",
-				"course_sort_value": "22",
+				"course_sort_value": "41484-1",
 				"course_duration": "2~4w",
 				"lessons": [
 						{
 								"id": 75012,
 								"scorewind_id": 0,
 								"lesson_title": "Introduction to &#8216;Preparation for a Violin Concerto in D Major by O. Rieding &#8211; Part 1&#8217;",
-								"lesson_content": "<p>This course focuses mainly on D Major and G Major pieces that have string crossing as part of their essence, and it leads to a well known concerto composed for learners by Oscar Rieding. This method is recommended for players who are fluent in music notation reading. Establishing comfort over each piece can take at least a week's time for most of the learners, so no rush!</p>\n\n<p>Although technical difficulties of each piece is rather similar within this collected group of pieces, they are not meant to be played precisely with the given order. Yet they can help each other out; since learning classical vocabulary is like learning a new language; knowing one piece WILL make it easier to learn the next one. There is a difficulty level rise to some extend towards the last pieces. You can listen to the whole set of pieces and start from whichever piece you feel the interest for.\u00a0</p>",
+								"lesson_content": "<p>This course focuses mainly on D Major and G Major pieces that have string crossing as part of their essence, and it leads to a well known concerto composed for learners by Oscar Rieding. This method is recommended for players who are fluent in music notation reading. Establishing comfort over each piece can take at least a week's time for most of the learners, so no rush!</p>\n<p>Although technical difficulties of each piece is rather similar within this collected group of pieces, they are not meant to be played precisely with the given order. Yet they can help each other out; since learning classical vocabulary is like learning a new language; knowing one piece WILL make it easier to learn the next one. There is a difficulty level rise to some extend towards the last pieces. You can listen to the whole set of pieces and start from whichever piece you feel the interest for.\u00a0</p>",
 								"lesson_composer": "",
-								"lesson_video": "",
+								"lesson_video": "https://scorewind.com/wp-content/uploads/2021/02/PATH-Preparation-For-A-Violin-Concerto-In-D-Major-By-O.-Rieding-\u2013-Part-1.mp4",
 								"lesson_score_viewer": "",
 								"lesson_image": "https://scorewind.com/wp-content/uploads/2021/02/Intro-Image-scorewind.jpg",
 								"lesson_step": 1
@@ -3350,16 +3641,16 @@
 				"course_short_description": "This course (part 2) focuses mainly on D Major and G Major pieces that have string crossing as part of their essence, and it leads to a well known concerto composed for learners by Oscar Rieding.",
 				"course_instrument": "violin",
 				"course_level": "beginner-intermediate",
-				"course_sort_value": "23",
+				"course_sort_value": "41484-2",
 				"course_duration": "2~4w",
 				"lessons": [
 						{
 								"id": 89189,
 								"scorewind_id": 0,
 								"lesson_title": "Introduction to &#8216;Preparation for a Violin Concerto in D Major by O. Rieding &#8211; Part 2&#8217;",
-								"lesson_content": "<p>This course (part 2) focuses mainly on D Major and G Major pieces that have string crossing as part of their essence, and it leads to a well known concerto composed for learners by Oscar Rieding. This method is recommended for players who are fluent in music notation reading. Establishing comfort over each piece can take at least a week's time for most of the learners, so no rush!</p>\n\n<p>Although technical difficulties of each piece is rather similar within this collected group of pieces, they are not meant to be played precisely with the given order. Yet they can help each other out; since learning classical vocabulary is like learning a new language; knowing one piece WILL make it easier to learn the next one. There is a difficulty level rise to some extend towards the last pieces. You can listen to the whole set of pieces and start from whichever piece you feel the interest for.&nbsp;</p>",
+								"lesson_content": "<p>This course (part 2) focuses mainly on D Major and G Major pieces that have string crossing as part of their essence, and it leads to a well known concerto composed for learners by Oscar Rieding. This method is recommended for players who are fluent in music notation reading. Establishing comfort over each piece can take at least a week's time for most of the learners, so no rush!</p>\n<p>Although technical difficulties of each piece is rather similar within this collected group of pieces, they are not meant to be played precisely with the given order. Yet they can help each other out; since learning classical vocabulary is like learning a new language; knowing one piece WILL make it easier to learn the next one. There is a difficulty level rise to some extend towards the last pieces. You can listen to the whole set of pieces and start from whichever piece you feel the interest for.&nbsp;</p>",
 								"lesson_composer": "",
-								"lesson_video": "",
+								"lesson_video": "https://scorewind.com/wp-content/uploads/2021/04/PATH-Preparation-For-A-Violin-Concerto-In-D-Major-By-O.-Rieding-\u2013-Part-2.mp4",
 								"lesson_score_viewer": "",
 								"lesson_image": "https://scorewind.com/wp-content/uploads/2021/02/Intro-Image-scorewind.jpg",
 								"lesson_step": 1
@@ -3392,16 +3683,16 @@
 				"course_short_description": "This course combines rhythmic stability with Baroque era music vocabulary and leads the player to play a concerto written in the style of one of the most famous composers of all times; Antonio Vivaldi.",
 				"course_instrument": "violin",
 				"course_level": "intermediate",
-				"course_sort_value": "22",
+				"course_sort_value": "41487-1",
 				"course_duration": "2~4w",
 				"lessons": [
 						{
 								"id": 75008,
 								"scorewind_id": 0,
 								"lesson_title": "Introduction to &#8216;Preparation for a Violin Concerto in Style of Vivaldi &#8211; Part 1&#8217;",
-								"lesson_content": "<p>This course combines rhythmic stability with Baroque era music vocabulary and leads the player to play a concerto written in the style of one of the most famous composers of all times; Antonio Vivaldi. Melodic pieces and exercises on the way mainly work on subdivision; combining quarter notes with 8th notes or 8th notes with 16th notes. It is recommended for players who are about to get fluent in music notation reading. Establishing comfort over each piece can take at least more than a weeks time, so no rush!</p>\n\n<p>Although technical difficulties of each piece is rather similar within this collected group of pieces, they are not meant to be played precisely with the given order. Yet they can help each other out; since learning classical vocabulary is like learning a new language; knowing one piece WILL make it easier to learn the next one. There is a difficulty level rise to some extend towards the last pieces. You can listen to the whole set of pieces and start from whichever piece you feel the interest for.&nbsp;</p>",
+								"lesson_content": "<p>This course combines rhythmic stability with Baroque era music vocabulary and leads the player to play a concerto written in the style of one of the most famous composers of all times; Antonio Vivaldi. Melodic pieces and exercises on the way mainly work on subdivision; combining quarter notes with 8th notes or 8th notes with 16th notes. It is recommended for players who are about to get fluent in music notation reading. Establishing comfort over each piece can take at least more than a weeks time, so no rush!</p>\n<p>Although technical difficulties of each piece is rather similar within this collected group of pieces, they are not meant to be played precisely with the given order. Yet they can help each other out; since learning classical vocabulary is like learning a new language; knowing one piece WILL make it easier to learn the next one. There is a difficulty level rise to some extend towards the last pieces. You can listen to the whole set of pieces and start from whichever piece you feel the interest for.&nbsp;</p>",
 								"lesson_composer": "",
-								"lesson_video": "",
+								"lesson_video": "https://scorewind.com/wp-content/uploads/2021/02/PATH-Preparation-For-A-Violin-Concerto-In-Style-Of-Vivaldi-\u2013-Part-1.mp4",
 								"lesson_score_viewer": "",
 								"lesson_image": "https://scorewind.com/wp-content/uploads/2021/02/Intro-Image-scorewind.jpg",
 								"lesson_step": 1
@@ -3479,16 +3770,16 @@
 				"course_short_description": "This course (part 2) combines rhythmic stability with Baroque era music vocabulary and leads the player to play a concerto written in the style of one of the most famous composers of all times; Antonio Vivaldi.",
 				"course_instrument": "violin",
 				"course_level": "intermediate",
-				"course_sort_value": "77",
+				"course_sort_value": "41487-2",
 				"course_duration": "2~4w",
 				"lessons": [
 						{
 								"id": 89205,
 								"scorewind_id": 0,
 								"lesson_title": "Introduction to &#8216;Preparation for a Violin Concerto in Style of Vivaldi &#8211; Part 2&#8217;",
-								"lesson_content": "<p>This course (part 2) combines rhythmic stability with Baroque era music vocabulary and leads the player to play a concerto written in the style of one of the most famous composers of all times; Antonio Vivaldi. Melodic pieces and exercises on the way mainly work on subdivision; combining quarter notes with 8th notes or 8th notes with 16th notes. It is recommended for players who are about to get fluent in music notation reading. Establishing comfort over each piece can take at least more than a weeks time, so no rush!</p>\n\n<p>Although technical difficulties of each piece is rather similar within this collected group of pieces, they are not meant to be played precisely with the given order. Yet they can help each other out; since learning classical vocabulary is like learning a new language; knowing one piece WILL make it easier to learn the next one. There is a difficulty level rise to some extend towards the last pieces. You can listen to the whole set of pieces and start from whichever piece you feel the interest for.&nbsp;</p>",
+								"lesson_content": "<p>This course (part 2) combines rhythmic stability with Baroque era music vocabulary and leads the player to play a concerto written in the style of one of the most famous composers of all times; Antonio Vivaldi. Melodic pieces and exercises on the way mainly work on subdivision; combining quarter notes with 8th notes or 8th notes with 16th notes. It is recommended for players who are about to get fluent in music notation reading. Establishing comfort over each piece can take at least more than a weeks time, so no rush!</p>\n<p>Although technical difficulties of each piece is rather similar within this collected group of pieces, they are not meant to be played precisely with the given order. Yet they can help each other out; since learning classical vocabulary is like learning a new language; knowing one piece WILL make it easier to learn the next one. There is a difficulty level rise to some extend towards the last pieces. You can listen to the whole set of pieces and start from whichever piece you feel the interest for.&nbsp;</p>",
 								"lesson_composer": "",
-								"lesson_video": "",
+								"lesson_video": "https://scorewind.com/wp-content/uploads/2021/04/PATH-Preparation-For-A-Violin-Concerto-In-Style-Of-Vivaldi-\u2013-Part-2.mp4",
 								"lesson_score_viewer": "",
 								"lesson_image": "https://scorewind.com/wp-content/uploads/2021/02/Intro-Image-scorewind.jpg",
 								"lesson_step": 1
@@ -3520,16 +3811,16 @@
 				"course_short_description": "This course is for players to challenge themselves to a long lasting piece; a movement from a concerto by Frederich Seitz! Playing a concerto doesn\u2019t mean playing something that is harder than before, but it needs a longer lasting concentration since the piece itself is longer.",
 				"course_instrument": "violin",
 				"course_level": "intermediate",
-				"course_sort_value": "22",
+				"course_sort_value": "41489-1",
 				"course_duration": "8hr",
 				"lessons": [
 						{
 								"id": 75004,
 								"scorewind_id": 0,
 								"lesson_title": "Introduction to &#8216;Preparation for a Violin Concerto in the Romantic Style &#8211; Part 1&#8217;",
-								"lesson_content": "<p>This course is for players to challenge themselves to a long lasting piece; a movement from a concerto by Frederich Seitz! Playing a concerto doesn\u2019t mean playing something that is harder than before, but it needs a longer lasting concentration since the piece itself is longer. The steps on the way are selected to keep the musical ideas running, most of them are very melodic pieces and some are etudes that prepare the player to the challenges that lie ahead. Phrase lengths are rather longer towards the end, also to prepare the player to the pace of a concerto where musical phrases tend to last longer than in shorter pieces.</p>\n\n<p>Although technical difficulties of each piece is rather similar within this collected group of pieces, they are not meant to be played precisely with the given order. Yet they can help each other out; since learning classical vocabulary is like learning a new language; knowing one piece WILL make it easier to learn the next one. There is a difficulty level rise to some extend towards the last pieces. You can listen to the whole set of pieces and start from whichever piece you feel the interest for.\u00a0</p>",
+								"lesson_content": "<p>This course is for players to challenge themselves to a long lasting piece; a movement from a concerto by Frederich Seitz! Playing a concerto doesn\u2019t mean playing something that is harder than before, but it needs a longer lasting concentration since the piece itself is longer. The steps on the way are selected to keep the musical ideas running, most of them are very melodic pieces and some are etudes that prepare the player to the challenges that lie ahead. Phrase lengths are rather longer towards the end, also to prepare the player to the pace of a concerto where musical phrases tend to last longer than in shorter pieces.</p>\n<p>Although technical difficulties of each piece is rather similar within this collected group of pieces, they are not meant to be played precisely with the given order. Yet they can help each other out; since learning classical vocabulary is like learning a new language; knowing one piece WILL make it easier to learn the next one. There is a difficulty level rise to some extend towards the last pieces. You can listen to the whole set of pieces and start from whichever piece you feel the interest for.\u00a0</p>",
 								"lesson_composer": "",
-								"lesson_video": "",
+								"lesson_video": "https://scorewind.com/wp-content/uploads/2021/02/PATH-Preparation-For-A-Violin-Concerto-In-The-Romantic-Style-\u2013-Part-1.mp4",
 								"lesson_score_viewer": "",
 								"lesson_image": "https://scorewind.com/wp-content/uploads/2021/02/Intro-Image-scorewind.jpg",
 								"lesson_step": 1
@@ -3616,16 +3907,16 @@
 				"course_short_description": "This course (part 2) is for players to challenge themselves to a long lasting piece; a movement from a concerto by Frederich Seitz! Playing a concerto doesn\u2019t mean playing something that is harder than before, but it needs a longer lasting concentration since the piece itself is longer.",
 				"course_instrument": "violin",
 				"course_level": "intermediate",
-				"course_sort_value": "77",
+				"course_sort_value": "41489-2",
 				"course_duration": "2~4w",
 				"lessons": [
 						{
 								"id": 89218,
 								"scorewind_id": 0,
 								"lesson_title": "Introduction to &#8216;Preparation for a Violin Concerto in the Romantic Style &#8211; Part 2&#8217;",
-								"lesson_content": "<p>This course (part 2) is for players to challenge themselves to a long lasting piece; a movement from a concerto by Frederich Seitz! Playing a concerto doesn\u2019t mean playing something that is harder than before, but it needs a longer lasting concentration since the piece itself is longer. The steps on the way are selected to keep the musical ideas running, most of them are very melodic pieces and some are etudes that prepare the player to the challenges that lie ahead. Phrase lengths are rather longer towards the end, also to prepare the player to the pace of a concerto where musical phrases tend to last longer than in shorter pieces.</p>\n\n<p>Although technical difficulties of each piece is rather similar within this collected group of pieces, they are not meant to be played precisely with the given order. Yet they can help each other out; since learning classical vocabulary is like learning a new language; knowing one piece WILL make it easier to learn the next one. There is a difficulty level rise to some extend towards the last pieces. You can listen to the whole set of pieces and start from whichever piece you feel the interest for.&nbsp;</p>",
+								"lesson_content": "<p>This course (part 2) is for players to challenge themselves to a long lasting piece; a movement from a concerto by Frederich Seitz! Playing a concerto doesn\u2019t mean playing something that is harder than before, but it needs a longer lasting concentration since the piece itself is longer. The steps on the way are selected to keep the musical ideas running, most of them are very melodic pieces and some are etudes that prepare the player to the challenges that lie ahead. Phrase lengths are rather longer towards the end, also to prepare the player to the pace of a concerto where musical phrases tend to last longer than in shorter pieces.</p>\n<p>Although technical difficulties of each piece is rather similar within this collected group of pieces, they are not meant to be played precisely with the given order. Yet they can help each other out; since learning classical vocabulary is like learning a new language; knowing one piece WILL make it easier to learn the next one. There is a difficulty level rise to some extend towards the last pieces. You can listen to the whole set of pieces and start from whichever piece you feel the interest for.&nbsp;</p>",
 								"lesson_composer": "",
-								"lesson_video": "",
+								"lesson_video": "https://scorewind.com/wp-content/uploads/2021/04/PATH-Preparation-For-A-Violin-Concerto-In-The-Romantic-Style-\u2013-Part-2.mp4",
 								"lesson_score_viewer": "",
 								"lesson_image": "https://scorewind.com/wp-content/uploads/2021/02/Intro-Image-scorewind.jpg",
 								"lesson_step": 1
@@ -3660,7 +3951,7 @@
 				"course_short_description": "This course will help you on your path to become a piano virtuoso! You will begin with etudes of easy difficulty, and focus both on singles hands or with similar distribution of difficulty.",
 				"course_instrument": "piano",
 				"course_level": "beginner",
-				"course_sort_value": "60",
+				"course_sort_value": "1",
 				"course_duration": "1~3w",
 				"lessons": [
 						{
@@ -3737,7 +4028,7 @@
 				"course_short_description": "This course (part 2) is aiming to train players to speed up both their hands. The selected etudes inside this method have fast pace runs in various arpeggio, melodic scale and chromatic line styles.",
 				"course_instrument": "piano",
 				"course_level": "beginner-intermediate",
-				"course_sort_value": "61",
+				"course_sort_value": "2",
 				"course_duration": "1~3w",
 				"lessons": [
 						{
@@ -3781,7 +4072,7 @@
 				"course_short_description": "This course (part 3) is aiming to train players to speed up both their hands. The selected etudes inside this method have fast pace runs in various arpeggio, melodic scale and chromatic line styles.",
 				"course_instrument": "piano",
 				"course_level": "intermediate",
-				"course_sort_value": "62",
+				"course_sort_value": "3",
 				"course_duration": "2~4w",
 				"lessons": [
 						{
@@ -3868,7 +4159,7 @@
 				"course_short_description": "This course (part 4) is aiming to train players to speed up both their hands. The selected etudes inside this method have fast pace runs in various arpeggio, melodic scale and chromatic line styles.",
 				"course_instrument": "piano",
 				"course_level": "intermediate",
-				"course_sort_value": "63",
+				"course_sort_value": "4",
 				"course_duration": "4~5w",
 				"lessons": [
 						{
@@ -3891,11 +4182,24 @@
 				"course_image": "https://scorewind.com/wp-content/uploads/2020/10/Guitar-banner-method-3.jpg",
 				"course_tag": [
 						"arpeggios",
+						"ascending scales",
 						"classical Era",
 						"classical music",
+						"common arpeggios",
+						"descending scales",
+						"essential chords",
+						"i m fingers",
+						"index middle fingers",
 						"melodic bass",
+						"melodic bass line",
+						"same time precision",
+						"scale like passages",
 						"scales",
-						"sor"
+						"sor",
+						"speed",
+						"three notes together",
+						"thumb",
+						"thumb workout"
 				],
 				"course_category": [
 						{
@@ -3912,7 +4216,7 @@
 				"course_short_description": "This etude by Fernando Sor, prepared with our step by step exercises, introduces a wide variety of descending and ascending scale like passages, along with engaging melodic lines in the bass line. You will also learn some of the most common arpeggios played on the guitar.",
 				"course_instrument": "guitar",
 				"course_level": "beginner-intermediate",
-				"course_sort_value": "50",
+				"course_sort_value": "8",
 				"course_duration": "1~3w",
 				"lessons": [
 						{
@@ -4011,10 +4315,19 @@
 				"course_content": "<h4>Highlights</h4>\n<ul>\n <li>\nSpecialized dotted rhythm workout.</li>\n <li>\nMelodic and rhythmic treatment of dotted rhythm.</li>\n <li>\nTriplet elements on melody.</li>\n <li>\nDescending parallel voicing.</li>\n</ul>\n<h4>Description</h4>\nThis method, arranged with our step by step model, will guide you in learning how to play correctly music with dotted rhythm. It is an increadibly powerful rhythmic figure, but it takes great effort in perfecting. Once it's finally under your grasp, you will have access to its dramatic musical effect. Dotted rhythm is present from the beginning to the end of this etude, so you will have plenty of opportunities to practice it in various fingering contexts. Keep in mind to not rush, because there usually is the tendency to do so in pieces of this kind. Also alter your musical intention for when the dotted rhythm sounds more melodic or more rhythmic.\n<h4>Requirement</h4>\n<ul>\n <li>\nBeginner-intermediate level of score reading ability.</li>\n <li>\nFamiliar with playing dotted rhythm.</li>\n <li>\nFamiliar with playing three notes at the same time.</li>\n <li>\nProficiency in 1st position scales.</li>\n <li>\nComfortable with rhythmic variety within a piece.</li>\n <li>\nProficiency in the frequent use of 4th finger.</li>\n</ul>\n<h4>What's next</h4>\nNext course: <a href=\"https://scorewind.com/courses/introduction-to-d-major-fingerings/\">Introduction to D Major Fingerings</a>",
 				"course_image": "https://scorewind.com/wp-content/uploads/2020/10/Guitar-banner-method-6.jpg",
 				"course_tag": [
+						"beginner intermediate",
 						"classical Era",
 						"classical music",
+						"descending parallel voicing",
 						"dotted rhythm",
-						"sor"
+						"dramatic effect",
+						"melodic dotted rhythm",
+						"parallel voicing",
+						"rhythm challenge",
+						"rhythmic dotted rhythm",
+						"rhythmic precision",
+						"sor",
+						"triplets"
 				],
 				"course_category": [
 						{
@@ -4031,7 +4344,7 @@
 				"course_short_description": "This method, arranged with our step by step model, will guide you in learning how to play correctly music with dotted rhythm. It is an increadibly powerful rhythmic figure, but it takes great effort in perfecting. Once it's finally under your grasp, you will have access to its dramatic musical effect.",
 				"course_instrument": "guitar",
 				"course_level": "beginner-intermediate",
-				"course_sort_value": "51",
+				"course_sort_value": "9",
 				"course_duration": "1~3w",
 				"lessons": [
 						{
@@ -4141,8 +4454,29 @@
 				"course_content": "<h4>Highlights</h4>\n<ul>\n <li>\nExecuting delicate ornamentations.</li>\n <li>\nPlaying staccato notes.</li>\n</ul>\n<h4>Description</h4>\nMinor keys are introduced to players only after they are used to certain major keys. There are a few reasons for that; firstly minor is often associated with \"less youthful\" emotions, which asks for a certain amount of maturity from the player, and secondly the finger positioning mainly requires the 1st finger to have a backward step, to be placed right next to the upper bridge (the small bump at the top end of the finger board), which may not come as easy at the very beginning. This method provides the required tonality preparation for the players to get eased with the intonation control of a very delicate and romantic melody that is presented at the final step.\n<h4>Requirement</h4>\n<ul>\n <li>\nIntermediate level of score reading skills</li>\n <li>\nMobility of left hand for diagonal shapes (rapid shifts or maintaining intervals between strings)</li>\n <li>\nProficiency in half, quarter, eight and dotted notes.</li>\n <li>\nRelaxed right hand.</li>\n <li>\nSwift string crossing abilities.</li>\n</ul>\n<h4>What's next</h4>\nNext course: <a href=\"https://scorewind.com/courses/one-two-three-waltz-two-three/\">One, two, three, waltz, two, three!</a>",
 				"course_image": "https://scorewind.com/wp-content/uploads/2021/01/violin-banner-method-1.jpg",
 				"course_tag": [
+						"1st finger backward step",
 						"classical music",
-						"romantic era"
+						"classical phrasing",
+						"delicate",
+						"delicate ornamentations",
+						"dynamics control",
+						"finger position",
+						"intermediate friendly",
+						"intonation",
+						"intonation control",
+						"minor key",
+						"minor piece",
+						"minor tonality",
+						"musical intention",
+						"musicality",
+						"ornamentation",
+						"romantic era",
+						"romantic melody",
+						"staccato",
+						"staccato notes",
+						"staccato technique",
+						"tonality preparation",
+						"violin"
 				],
 				"course_category": [
 						{
@@ -4159,7 +4493,7 @@
 				"course_short_description": "This method provides the required tonality preparation for the players to get eased with the intonation control of a very delicate and romantic melody that is presented at the final step.",
 				"course_instrument": "violin",
 				"course_level": "intermediate",
-				"course_sort_value": "55",
+				"course_sort_value": "7",
 				"course_duration": "2w",
 				"lessons": [
 						{
@@ -4289,7 +4623,7 @@
 				"course_short_description": "With this course you can greatly improve the dexterity of your right hand\u2019s thumb. It is a finger that is often neglected during practice, as the study focus tends to direct to i, m, a, or to the left hand fingers.",
 				"course_instrument": "guitar",
 				"course_level": "intermediate",
-				"course_sort_value": "38",
+				"course_sort_value": "58794-1",
 				"course_duration": "4~8w",
 				"lessons": [
 						{
@@ -4386,7 +4720,7 @@
 				"course_short_description": "With this course (part 2) you can greatly improve the dexterity of your right hand\u2019s thumb. It is a finger that is often neglected during practice, as the study focus tends to direct to i, m, a, or to the left hand fingers.",
 				"course_instrument": "guitar",
 				"course_level": "intermediate-advanced",
-				"course_sort_value": "39",
+				"course_sort_value": "58794-2",
 				"course_duration": "5~10w",
 				"lessons": [
 						{
@@ -4408,14 +4742,14 @@
 				"course_content": "<h4>Highlights</h4>\n<ul>\n <li>\nFocus on melodic arpeggios.</li>\n <li>\nPracticing homophonic phrasing.</li>\n <li>\nTernary pulse workout.</li>\n <li>\nDotted rhythm elements.</li>\n</ul>\n<h4>Description</h4>\nThis step by step method will guide you through the practice of an etude by Fernando Sor. This etude is a beautiful combination of melodic arpeggios and homophonic phrasing, which will help you to develp exactly those specific playing skills, so typical for the classical guitar. Keep a stable count of the triple meter, and work on giving the waltz feeling to your interpretation. Be very precise when playing the dotted rhythm passages, and repeat slowing every 8th note passage so that you gain a relaxed flowing motion of those notes.\n<h4>Requirement</h4>\n<ul>\n <li>\nBeginner-intermediate level of score reading ability.</li>\n <li>\nProficiency in keeping stable tempo on a ternary pulse.</li>\n <li>\nProficiency in switching between half, quarter, and eight notes.</li>\n <li>\nBeginner level in melodic arpeggios.</li>\n <li>\nFamiliar with two voice leading.</li>\n</ul>\n<h4>What's next</h4>\nNext course: <a href=\"https://scorewind.com/courses/flow-of-one-single-melody-line/\">Flow of one Single Melody Line</a>",
 				"course_image": "https://scorewind.com/wp-content/uploads/2020/10/5de111a1b377b_1_guitar_banner.jpg",
 				"course_tag": [
+						"3/4",
 						"beginner intermediate",
 						"classical Era",
 						"classical music",
 						"dotted rhythm",
-						"homophony",
-						"melodic arpeggios",
-						"sor",
-						"waltz"
+						"fernando sor",
+						"homophonic phrasing",
+						"melodic arpeggios"
 				],
 				"course_category": [
 						{
@@ -4432,7 +4766,7 @@
 				"course_short_description": "This step by step method will guide you through the practice of an etude by Fernando Sor. This etude is a beautiful combination of melodic arpeggios and homophonic phrasing, which will help you to develp exactly those specific playing skills, so typical for the classical guitar.",
 				"course_instrument": "guitar",
 				"course_level": "beginner-intermediate",
-				"course_sort_value": "48",
+				"course_sort_value": "6",
 				"course_duration": "1~2w",
 				"lessons": [
 						{

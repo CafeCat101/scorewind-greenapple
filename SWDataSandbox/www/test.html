@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>local html simple test</title>
+	<meta charset="utf-8"/>
+	<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no'>
+	<style>:root {font: -apple-system-body;}</style>
+	<script src="js/jquery.min.js" type="text/javascript"></script>
+
+	<script src="js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+	<!--	<script src="js/input-spinner.js" type="text/javascript"></script>-->
+
+	<link rel="stylesheet" href="css/bootstrap.min.css" crossorigin="anonymous">
+	<link rel="stylesheet" href="css/all.min.css" crossorigin="anonymous">
+</head>
+<body style="margin:0px;">
+	<h1 id="name">Model</h1>
+	<p id="version">System Version</p>
+	<input type="button" onclick="trigger()" value="Trigger">
+	</body>
+	<script>
+			function device(name, version) {
+					document.getElementById("name").innerHTML = name;
+					document.getElementById("version").innerHTML = version;
+			}
+			function trigger() {
+					window.webkit.messageHandlers.observer.postMessage("trigger from JS");
+			}
+	</script>
+
+</body>
+</html>

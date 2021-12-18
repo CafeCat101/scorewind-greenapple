@@ -16,7 +16,7 @@ class NavigationGuide: ObservableObject{
 	@Published var nextCourse:Course = Course()
 	
 	let defineInstrument = "guitar"//"guitar" "violin"
-	let defineCourseCategory = "Path" //"Step By Step" "Path"
+	let defineCourseCategory = "Step By Step" //"Step By Step" "Path"
 	var filteredCourses:[Course] = []
 	
 	init(){

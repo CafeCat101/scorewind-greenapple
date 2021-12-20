@@ -19,6 +19,9 @@
 		C8C8D578272BD89700FB0CAB /* NavigationGuideView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8C8D577272BD89700FB0CAB /* NavigationGuideView.swift */; };
 		C8C8D57A272BE09700FB0CAB /* LessonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8C8D579272BE09700FB0CAB /* LessonView.swift */; };
 		C8C8D57C272C2D2100FB0CAB /* NavigationGuide.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8C8D57B272C2D2100FB0CAB /* NavigationGuide.swift */; };
+		C8D0E82F276E0060002D8AD3 /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8D0E82E276E0060002D8AD3 /* ViewModel.swift */; };
+		C8D0E831276E272C002D8AD3 /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8D0E830276E272C002D8AD3 /* WebView.swift */; };
+		C8D0E833276E2749002D8AD3 /* Loader.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8D0E832276E2749002D8AD3 /* Loader.swift */; };
 		C8E77A6E2769F4B500BC2405 /* LoaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8E77A6D2769F4B500BC2405 /* LoaderView.swift */; };
 		C8E77A70276B3C6200BC2405 /* LessonVideoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8E77A6F276B3C6200BC2405 /* LessonVideoView.swift */; };
 		C8E77A74276B3DE100BC2405 /* LessonPartialView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8E77A73276B3DE100BC2405 /* LessonPartialView2.swift */; };
@@ -41,6 +44,9 @@
 		C8C8D577272BD89700FB0CAB /* NavigationGuideView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationGuideView.swift; sourceTree = "<group>"; };
 		C8C8D579272BE09700FB0CAB /* LessonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonView.swift; sourceTree = "<group>"; };
 		C8C8D57B272C2D2100FB0CAB /* NavigationGuide.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationGuide.swift; sourceTree = "<group>"; };
+		C8D0E82E276E0060002D8AD3 /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
+		C8D0E830276E272C002D8AD3 /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
+		C8D0E832276E2749002D8AD3 /* Loader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Loader.swift; sourceTree = "<group>"; };
 		C8E77A6D2769F4B500BC2405 /* LoaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoaderView.swift; sourceTree = "<group>"; };
 		C8E77A6F276B3C6200BC2405 /* LessonVideoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonVideoView.swift; sourceTree = "<group>"; };
 		C8E77A73276B3DE100BC2405 /* LessonPartialView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonPartialView2.swift; sourceTree = "<group>"; };
@@ -97,6 +103,9 @@
 				C8E77A75276B406400BC2405 /* LessonPartialView1.swift */,
 				C8BA6E8A2737B3BD0099A134 /* HTMLString.swift */,
 				C8E77A77276C559E00BC2405 /* ScoreViewer.swift */,
+				C8D0E82E276E0060002D8AD3 /* ViewModel.swift */,
+				C8D0E830276E272C002D8AD3 /* WebView.swift */,
+				C8D0E832276E2749002D8AD3 /* Loader.swift */,
 			);
 			path = SWDataSandbox;
 			sourceTree = "<group>";
@@ -187,10 +196,13 @@
 				C8C8D5742729B6FC00FB0CAB /* CourseView.swift in Sources */,
 				C8E77A76276B406400BC2405 /* LessonPartialView1.swift in Sources */,
 				C8E77A74276B3DE100BC2405 /* LessonPartialView2.swift in Sources */,
+				C8D0E82F276E0060002D8AD3 /* ViewModel.swift in Sources */,
 				C8C8D56A27242CE500FB0CAB /* ScorewindCourses.swift in Sources */,
+				C8D0E833276E2749002D8AD3 /* Loader.swift in Sources */,
 				C8BA6E8B2737B3BD0099A134 /* HTMLString.swift in Sources */,
 				C8C8D56C27253ABC00FB0CAB /* Helper.swift in Sources */,
 				C8E77A6E2769F4B500BC2405 /* LoaderView.swift in Sources */,
+				C8D0E831276E272C002D8AD3 /* WebView.swift in Sources */,
 				C8C8D57C272C2D2100FB0CAB /* NavigationGuide.swift in Sources */,
 				C8E77A70276B3C6200BC2405 /* LessonVideoView.swift in Sources */,
 				C8E77A78276C559E00BC2405 /* ScoreViewer.swift in Sources */,

@@ -18,6 +18,7 @@ struct LessonView: View {
 	@State private var startPos:CGPoint = .zero
 	@State private var isSwipping = true
 	
+	
 	var body: some View {
 		if goToView == "lesson"{
 			VStack{

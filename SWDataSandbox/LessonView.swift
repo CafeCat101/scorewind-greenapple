@@ -6,7 +6,6 @@
 //
 
 import SwiftUI
-import AVKit
 
 
 struct LessonView: View {
@@ -17,6 +16,8 @@ struct LessonView: View {
 	@EnvironmentObject var navigationGuide:NavigationGuide
 	@State private var startPos:CGPoint = .zero
 	@State private var isSwipping = true
+	@ObservedObject var viewModel = ViewModel()
+	//@State var getScoreXML = ""
 	
 	
 	var body: some View {
@@ -27,7 +28,7 @@ struct LessonView: View {
 				}) {
 					Text("\(navigationGuide.replaceCommonHTMLNumber(htmlString: navigationGuide.currentLesson.title))")
 						.font(.title2)
-						.foregroundColor(Color.black)
+                        .foregroundColor(Color.black)
 				}
 				
 				if navigationGuide.currentLesson.video == "" {
@@ -39,7 +40,7 @@ struct LessonView: View {
 				}else{
 					/*VideoPlayer(player: AVPlayer(url:URL(string: decodeVideoURL(videoURL: navigationGuide.currentLesson.video))!))
 						.frame(height: screenSize.height/2.5)*/
-					LessonVideoView(getVieoLink: navigationGuide.currentLesson.video)
+					LessonVideoView(getVieoLink: navigationGuide.currentLesson.video, viewModel: viewModel, showScore: $showScore)
 						.frame(height: screenSize.height/2.5)
 				}
 				
@@ -53,7 +54,7 @@ struct LessonView: View {
 					if showScore == false {
 						LessonPartialView1(getHtmlContent: navigationGuide.currentLesson.content)
 					}else {
-						LessonPartialView2(getScoreXML:navigationGuide.currentLesson.scoreViewer)
+                        LessonPartialView2(urlRequest:getScoreURLRequest(scoreXML: navigationGuide.currentLesson.scoreViewer),viewModel: viewModel)
 					}
 				}
 				.gesture(
@@ -92,7 +93,11 @@ struct LessonView: View {
 				
 				Spacer()
 			}
-			.sheet(isPresented: $showNavigationGuide){
+			.sheet(isPresented: $showNavigationGuide, onDismiss: {
+				//showScore = false
+				viewModel.scoreXML = navigationGuide.currentLesson.scoreViewer
+                print("ondismiss sheet")
+			}){
 				NavigationGuideView(isPresented: self.$showNavigationGuide, setToView: self.$goToView)
 			}
 			.onAppear(perform: {
@@ -112,6 +117,14 @@ struct LessonView: View {
 		print(decodedURL)
 		return decodedURL
 	}
+    private func getScoreURLRequest(scoreXML:String)->URLRequest{
+        let decodedXML = scoreXML.addingPercentEncoding(withAllowedCharacters: .urlFragmentAllowed)!
+        let url = Bundle.main.url(forResource: "score", withExtension: "html", subdirectory: "www")
+        let fullUrl = URL(string: "?score="+decodedXML, relativeTo: url);
+        let request = URLRequest(url:fullUrl!)
+        print("getScoreURLRequest "+decodedXML)
+        return request
+    }
 }
 
 struct LessonView_Previews: PreviewProvider {

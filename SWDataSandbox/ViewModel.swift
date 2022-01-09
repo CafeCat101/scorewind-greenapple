@@ -14,6 +14,7 @@ class ViewModel: ObservableObject {
 		var valuePublisher = PassthroughSubject<String, Never>()
 		var loadPublisher = PassthroughSubject<String, Never>()
 		var zoomInPublisher = PassthroughSubject<String, Never>()
+	  var scoreXML = ""
 }
 
 // For identifiying WebView's forward and backward navigation

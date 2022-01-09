@@ -20,6 +20,12 @@ protocol WebViewHandlerDelegate {
 
 // MARK: - WebView
 struct WebView: UIViewRepresentable, WebViewHandlerDelegate {
+	//var url: WebUrlType
+	// Viewmodel object
+    //var urlRequest:URLRequest
+	@ObservedObject var viewModel: ViewModel
+	//var xmlScore:String
+	
 	func receivedJsonValueFromWebView(value: [String : Any?]) {
 		print("JSON value received from web is: \(value)")
 	}
@@ -27,11 +33,6 @@ struct WebView: UIViewRepresentable, WebViewHandlerDelegate {
 	func receivedStringValueFromWebView(value: String) {
 		print("String value received from web is: \(value)")
 	}
-	
-	//var url: WebUrlType
-	// Viewmodel object
-	@ObservedObject var viewModel: ViewModel
-	var musicXML: String
 	
 	// Make a coordinator to co-ordinate with WKWebView's default delegate functions
 	func makeCoordinator() -> Coordinator {
@@ -64,6 +65,18 @@ struct WebView: UIViewRepresentable, WebViewHandlerDelegate {
 		if let url = Bundle.main.url(forResource: "score", withExtension: "html", subdirectory: "www") {
 			print("Load local file 2")
 			webView.loadFileURL(url, allowingReadAccessTo: url.deletingLastPathComponent())
+
+			
+			/*let javascriptFunction = "load_score_view(\"\(viewModel.scoreXML)\");"
+			print(javascriptFunction)
+			webView.evaluateJavaScript(javascriptFunction) { (response, error) in
+				if let error = error {
+					print("updateUIView, Error calling javascript:load_score_view()")
+					print(error.localizedDescription)
+				} else {
+					print("updateUIView, Called javascript:load_score_view()")
+				}
+			}*/
 		}
 	}
 
@@ -102,20 +115,21 @@ struct WebView: UIViewRepresentable, WebViewHandlerDelegate {
 			 
 			 self.parent.viewModel.showWebTitle.send(title)
 			 }*/
-			let javascriptFunction = "load_score_view(\"\(parent.musicXML)\");"
+			
+			let javascriptFunction = "load_score_view(\"\(parent.viewModel.scoreXML)\");"
 			print(javascriptFunction)
 			webView.evaluateJavaScript(javascriptFunction) { (response, error) in
 				if let error = error {
 					print("Error calling javascript:load_score_view()")
 					print(error.localizedDescription)
 				} else {
-					print("Called javascript:load_score_view()")
+					print("webView, didFinish, Called javascript:load_score_view()")
 				}
 			}
 			
 			/* An observer that observes 'viewModel.valuePublisher' to get value from TextField and
 			 pass that value to web app by calling JavaScript function */
-			valueSubscriber = parent.viewModel.valuePublisher.receive(on: RunLoop.main).sink(receiveValue: { value in
+			/*valueSubscriber = parent.viewModel.valuePublisher.receive(on: RunLoop.main).sink(receiveValue: { value in
 				let javascriptFunction = "valueGotFromIOS(\"\(value)\");"
 				print(javascriptFunction)
 				webView.evaluateJavaScript(javascriptFunction) { (response, error) in
@@ -126,10 +140,10 @@ struct WebView: UIViewRepresentable, WebViewHandlerDelegate {
 						print("Called javascript:valueGotFromIOS()")
 					}
 				}
-			})
+			})*/
 			
 			loadSubscriber = parent.viewModel.loadPublisher.receive(on: RunLoop.main).sink(receiveValue: { value in
-				let javascriptFunction = "load_score_view(\"\(value)\");"
+				let javascriptFunction = "loadPublisher, load_score_view(\"\(value)\");"
 				print(javascriptFunction)
 				webView.evaluateJavaScript(javascriptFunction) { (response, error) in
 					if let error = error {
@@ -141,7 +155,7 @@ struct WebView: UIViewRepresentable, WebViewHandlerDelegate {
 				}
 			})
 			
-			zoomInSubscriber = parent.viewModel.zoomInPublisher.receive(on: RunLoop.main).sink(receiveValue: { value in
+			/*zoomInSubscriber = parent.viewModel.zoomInPublisher.receive(on: RunLoop.main).sink(receiveValue: { value in
 				let javascriptFunction = "zoomIn(\"\(value)\");"
 				print(javascriptFunction)
 				webView.evaluateJavaScript(javascriptFunction) { (response, error) in
@@ -152,7 +166,7 @@ struct WebView: UIViewRepresentable, WebViewHandlerDelegate {
 						print("Called javascript:zoomIn()")
 					}
 				}
-			})
+			})*/
 			
 			// Page loaded so no need to show loader anymore
 			self.parent.viewModel.showLoader.send(false)

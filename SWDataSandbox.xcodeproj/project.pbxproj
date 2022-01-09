@@ -94,18 +94,18 @@
 				C8C8D5732729B6FC00FB0CAB /* CourseView.swift */,
 				C8C8D577272BD89700FB0CAB /* NavigationGuideView.swift */,
 				C8C8D579272BE09700FB0CAB /* LessonView.swift */,
-				C8C8D56927242CE500FB0CAB /* ScorewindCourses.swift */,
-				C8C8D57B272C2D2100FB0CAB /* NavigationGuide.swift */,
-				C8C8D56B27253ABC00FB0CAB /* Helper.swift */,
-				C8E77A6D2769F4B500BC2405 /* LoaderView.swift */,
 				C8E77A6F276B3C6200BC2405 /* LessonVideoView.swift */,
 				C8E77A73276B3DE100BC2405 /* LessonPartialView2.swift */,
 				C8E77A75276B406400BC2405 /* LessonPartialView1.swift */,
+				C8E77A6D2769F4B500BC2405 /* LoaderView.swift */,
 				C8BA6E8A2737B3BD0099A134 /* HTMLString.swift */,
 				C8E77A77276C559E00BC2405 /* ScoreViewer.swift */,
 				C8D0E82E276E0060002D8AD3 /* ViewModel.swift */,
 				C8D0E830276E272C002D8AD3 /* WebView.swift */,
 				C8D0E832276E2749002D8AD3 /* Loader.swift */,
+				C8C8D56B27253ABC00FB0CAB /* Helper.swift */,
+				C8C8D56927242CE500FB0CAB /* ScorewindCourses.swift */,
+				C8C8D57B272C2D2100FB0CAB /* NavigationGuide.swift */,
 			);
 			path = SWDataSandbox;
 			sourceTree = "<group>";

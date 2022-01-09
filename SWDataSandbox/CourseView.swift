@@ -25,11 +25,11 @@ struct CourseView: View {
 						.font(.title2)
 						.foregroundColor(Color.black)
 				}
-				Rectangle()
+				/*Rectangle()
 					.frame(height: screenSize.height/2.5)
 					.overlay(
 						Text("Introduction video")
-							.foregroundColor(Color.white))
+							.foregroundColor(Color.white))*/
 				/*Text("Introduction")
 					.fontWeight(.bold)
 				Text(navigationGuide.currentCourse.content)*/
